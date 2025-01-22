@@ -24,7 +24,8 @@ If you find a bug or have a suggestion for an enhancement :
 1. Fork the repository and create your own branch from `dev` branch.
 2. follow this format for naming branches:
    - `features/new-profile-page`
-   - `issues/fix-authentication-issue`
+   - `bugfix/d-connection-issue-123`
+   - `refactor/cache-improvements`
 3. Make sure your code follows our [Coding Guidelines](#coding-guidelines).
 4. Commit your changes using clear and descriptive commit messages .
 5. Push your changes to your forked repository.
