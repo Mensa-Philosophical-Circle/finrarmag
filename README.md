@@ -64,24 +64,18 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 1.[How to contribute](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#how-to-contribute)
 
-2.[Reporting issues](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#reporting-issues)
+2.[Reporting issues](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#reporting-issues)
 
-3.[Working on issues ](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#working-on-issues)
+3.[Working on issues ](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#working-on-issues)
 
-4.[Submitting pull requests](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#submitting-pull-requests)
+4.[Submitting pull requests](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#submitting-pull-requests)
 
-5.[Commit Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#commit-guidelines)
+5.[Commit Guidelines](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#commit-guidelines)
 
-6.[Coding Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#coding-guidelines)
+6.[Coding Guidelines](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#coding-guidelines)
 
-7.[Questions](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#questions)
+7.[Questions](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#questions)
 
-
-## Show your support
-
-Dont forget to give a ⭐️ to this project ... Happy coding!
-
-**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
 
 ## License
 
