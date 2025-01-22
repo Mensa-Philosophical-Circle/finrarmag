@@ -1,76 +1,74 @@
-# Perangkat Lunak ERP & CRM Sumber Terbuka finrarmag
+# finrarmag Perangkat Lunak ERP & CRM Sumber Terbuka
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Website: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
 ## Tumpukan Perangkat Lunak
 
-Aplikasi ERP & CRM gratis dan sumber terbuka finrarmag, berbasis "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag adalah aplikasi ERP & CRM sumber terbuka gratis yang berbasis "mern-stack". Menggunakan teknologi berikut: Node.js, React.js, Redux, Express.js, MongoDB dan Ant Design (AntD).
 
 ## Manajemen Pengguna
 
-- Memungkinkan administrator untuk membuat, mengedit, dan menghapus akun pengguna.
-- Mengimplementasikan kontrol akses berbasis peran untuk mengelola izin pengguna.
-- Menyediakan mekanisme autentikasi dan otorisasi untuk memastikan akses yang aman.
+- Administrator dapat membuat, mengedit, dan menghapus akun pengguna.
+- Kontrol akses berbasis peran untuk manajemen izin.
+- Akses aman melalui sistem otentikasi dan otorisasi.
 
 ## Manajemen Hubungan Pelanggan (CRM)
 
-- Memungkinkan pengguna untuk membuat dan mengelola catatan kontak untuk prospek dan pelanggan.
-- Mengimplementasikan fungsi generasi dan kualifikasi prospek untuk melacak peluang penjualan potensial.
-- Menyediakan alat untuk mengelola riwayat komunikasi pelanggan, termasuk email, telepon, dan pertemuan.
-- Memungkinkan pengguna untuk menjadwalkan janji dan mengirim pemberitahuan atau pengingat kepada pelanggan.
+- Pengguna dapat membuat dan mengelola informasi kontak prospek dan pelanggan.
+- Pembuatan dan kualifikasi prospek untuk melacak peluang penjualan.
+- Alat untuk mengelola riwayat komunikasi pelanggan.
+- Pengguna dapat menjadwalkan janji temu dan mengirim pemberitahuan ke pelanggan.
 
 ## Manajemen Penjualan
 
-- Memungkinkan pengguna untuk membuat dan mengelola pesanan penjualan, yang terkait dengan pelanggan tertentu.
-- Mengimplementasikan pelacakan inventaris untuk memeriksa ketersediaan produk dan memperbarui tingkat stok setelah setiap penjualan.
-- Menghasilkan faktur dan mengelola integrasi pembayaran dengan gateway pembayaran populer.
-- Menyediakan dasbor dan laporan untuk memantau kinerja penjualan dan menganalisis tren.
+- Pengguna dapat membuat dan mengelola pesanan penjualan.
+- Manajemen inventaris untuk memeriksa ketersediaan produk.
+- Pembuatan faktur dan manajemen pembayaran.
+- Dasbor untuk memantau kinerja penjualan.
 
 ## Manajemen Pembelian
 
-- Memungkinkan pengguna untuk membuat dan mengelola pesanan pembelian, dengan menyebutkan jumlah dan produk yang diinginkan.
-- Melacak informasi pemasok dan mengelola hubungan dengan pemasok.
-- Menerima barang dan memperbarui tingkat persediaan sesuai dengan itu.
-- Menangani faktur dan pembayaran pembelian kepada pemasok.
+- Pengguna dapat membuat dan mengelola pesanan pembelian.
+- Pelacakan informasi pemasok dan manajemen hubungan.
+- Penerimaan produk dan pembaruan inventaris.
+- Manajemen faktur pembelian dan pembayaran pemasok.
 
-## Manajemen Persediaan
+## Manajemen Inventaris
 
-- Menyediakan alat untuk mengelola dan melacak tingkat persediaan, termasuk transfer stok dan penyesuaian.
-- Mengatur notifikasi otomatis untuk tingkat persediaan yang rendah dan menghasilkan pesanan pembelian ketika persediaan perlu diisi ulang.
-- Menawarkan kemampuan pemindaian barcode untuk manajemen persediaan yang efisien.
-- Memungkinkan pengguna untuk mengategorikan produk, mendefinisikan atribut, dan menetapkan informasi harga.
+- Alat untuk mengelola dan melacak tingkat inventaris.
+- Pemberitahuan otomatis untuk tingkat inventaris rendah.
+- Fungsionalitas pemindaian barcode disediakan.
+- Pengguna dapat mengkategorikan produk dan menetapkan harga.
 
 ## Manajemen Keuangan
 
-- Mengimplementasikan sistem buku besar umum untuk melacak transaksi keuangan, termasuk pengeluaran dan pendapatan.
-- Mengelola piutang dan hutang, termasuk faktur dan pelacakan pembayaran.
-- Menghasilkan laporan keuangan, termasuk neraca dan laporan laba rugi.
-- Mengintegrasikan dengan perangkat lunak akuntansi populer untuk manajemen keuangan yang mulus.
+- Sistem buku besar untuk melacak transaksi.
+- Manajemen piutang dan hutang.
+- Pembuatan laporan keuangan.
+- Kemungkinan integrasi dengan perangkat lunak akuntansi.
 
 ## Manajemen Proyek
 
-- Menyediakan kemampuan manajemen proyek, memungkinkan pengguna untuk membuat dan melacak proyek.
-- Menugaskan tugas kepada anggota tim, menetapkan batas waktu, dan memantau kemajuan.
-- Mengalokasikan sumber daya dan melacak biaya proyek.
-- Menawarkan fitur kolaborasi seperti berbagi dokumen dan komunikasi real-time.
+- Fungsi manajemen proyek disediakan.
+- Penugasan tugas ke anggota tim.
+- Alokasi sumber daya dan pelacakan biaya.
+- Fungsi kolaborasi disediakan.
 
-## Pelaporan dan Analitik
+## Pelaporan dan Analisis
 
-- Menghasilkan laporan dan analitik komprehensif tentang berbagai aspek bisnis.
-- Menyediakan dasbor yang dapat disesuaikan untuk memantau indikator kinerja utama (KPI).
-- Memungkinkan pengguna untuk menentukan laporan kustom berdasarkan persyaratan tertentu.
-- Mengimplementasikan teknik visualisasi data untuk menyajikan informasi secara menarik secara visual.
+- Pembuatan laporan komprehensif tentang berbagai aspek bisnis.
+- Dasbor yang dapat disesuaikan disediakan.
+- Pengguna dapat menentukan laporan kustom.
+- Teknik visualisasi data diimplementasikan.
 
 ## Integrasi dan Kustomisasi
 
-- Memungkinkan integrasi dengan aplikasi pihak ketiga atau API populer, seperti alat pemasaran email atau platform CRM.
-- Memungkinkan kustomisasi fungsionalitas dan tampilan aplikasi berdasarkan kebutuhan bisnis tertentu.
-- Menyediakan API atau webhook untuk memfasilitasi pertukaran data antara aplikasi ERP & CRM dan sistem lainnya.
+- Kemungkinan integrasi dengan aplikasi pihak ketiga.
+- Kustomisasi fungsi sesuai kebutuhan.
+- API disediakan untuk pertukaran data.
 
-## Antarmuka yang Ramah Pengguna
+## Antarmuka Pengguna
 
-- Mendesain antarmuka yang intuitif, responsif, dan ramah pengguna menggunakan React.js dan Ant Design.
-- Mengimplementasikan menu navigasi yang mudah digunakan, fungsi pencarian, dan filter.
-- Memastikan antarmuka yang konsisten dan menarik secara visual di berbagai perangkat dan ukuran layar.
+- Antarmuka intuitif dan responsif dengan React.js dan Ant Design.
+- Menu navigasi dan filter yang mudah digunakan.
+- Antarmuka yang konsisten di berbagai perangkat.

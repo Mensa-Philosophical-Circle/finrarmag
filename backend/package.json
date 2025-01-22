@@ -48,15 +48,15 @@
     "@": "src"
   },
   "main": "server.js",
-  "author": "IDURAR",
-  "email": "hello@idurarapp.com",
+  "author": "Finrarmag",
+  "email": "support@finrarmagapp.com",
   "license": "Fair-code License",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idurar/finrarmag/.git"
+    "url": "git+https://github.com/Mensa-Philosophical-Circle/finrarmag.git"
   },
   "bugs": {
-    "url": "https://github.com/idurar/finrarmag//issues"
+    "url": "https://github.com/Mensa-Philosophical-Circle/finrarmag/issues"
   },
-  "homepage": "https://github.com/idurar/finrarmag/#readme"
+  "homepage": "https://github.com/Mensa-Philosophical-Circle/finrarmag/#readme"
 }

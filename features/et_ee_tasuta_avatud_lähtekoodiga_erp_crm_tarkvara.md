@@ -1,76 +1,74 @@
-# finrarmag Open-Source ERP & CRM Tarkvara
+# finrarmag Avatud Lähtekoodiga ERP & CRM Tarkvara
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Veebisait: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Tarkvara Stack
+## Tarkvaraplatvorm
 
-finrarmag Tasuta avatud lähtekoodiga erp & crm rakendus, mis põhineb "mern-stack" tehnoloogial: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag on tasuta avatud lähtekoodiga ERP & CRM rakendus, mis põhineb "mern-stack" tehnoloogial. See kasutab järgmisi tehnoloogiaid: Node.js, React.js, Redux, Express.js, MongoDB ja Ant Design (AntD).
 
-## Kasutajate haldamine
+## Kasutajate Haldus
 
-- Võimaldab administraatoritel luua, muuta ja kustutada kasutajakontosid.
-- Rakenda rollipõhine juurdepääsu kontroll kasutajaõiguste haldamiseks.
-- Paku autentimis- ja autoriseerimismehhanisme turvalise juurdepääsu tagamiseks.
+- Administraatorid saavad luua, muuta ja kustutada kasutajakontosid.
+- Rollipõhine juurdepääsukontroll õiguste haldamiseks.
+- Turvaline juurdepääs autentimis- ja autoriseerimissüsteemi kaudu.
 
-## Kliendisuhte haldamine (CRM)
+## Kliendisuhete Haldus (CRM)
 
-- Võimaldab kasutajatel luua ja hallata kontaktisikute andmeid müügivihjete, potentsiaalsete klientide ja klientide jaoks.
-- Rakenda müügivihjete genereerimise ja kvalifitseerimise funktsionaalsust, et jälgida potentsiaalseid müügivõimalusi.
-- Paku tööriistu kliendikommunikatsiooni ajaloo haldamiseks, sealhulgas e-kirjad, kõned ja kohtumised.
-- Võimaldab kasutajatel planeerida kohtumisi ja saata teateid või meeldetuletusi klientidele.
+- Kasutajad saavad luua ja hallata müügivihjete ja klientide kontaktandmeid.
+- Müügivihjete genereerimine ja kvalifitseerimine müügivõimaluste jälgimiseks.
+- Tööriistad klientide suhtlusajaloo haldamiseks.
+- Kasutajad saavad planeerida kohtumisi ja saata klientidele teateid.
 
 ## Müügihaldus
 
-- Võimaldab kasutajatel luua ja hallata müügiordereid, sidudes need konkreetsete klientidega.
-- Rakenda laojäägi jälgimist, et kontrollida toodete saadavust ja värskendada varude taset pärast igat müüki.
-- Genereeri arveid ja hõlbusta makse integreerimist populaarsete makseväravatega.
-- Paku juhtpaneeli ja aruandeid müügitulemuste jälgimiseks ja suundumuste analüüsimiseks.
+- Kasutajad saavad luua ja hallata müügitellimusi.
+- Laohaldus toodete saadavuse kontrollimiseks.
+- Arvete genereerimine ja maksete haldamine.
+- Juhtpaneel müügitulemuste jälgimiseks.
 
 ## Ostuhaldus
 
-- Võimaldab kasutajatel luua ja hallata ostutellimusi, määrates koguse ja soovitud tooted.
-- Jälgige tarnija teavet ja haldage tarnijasuhet.
-- Vastu võtke kaupu ja värskendage vastavalt varude taset.
-- Hõlbusta ostuarveid ja makseid tarnijatele.
+- Kasutajad saavad luua ja hallata ostutellimusi.
+- Tarnijate info jälgimine ja suhete haldamine.
+- Toodete vastuvõtmine ja lao uuendamine.
+- Ostuarvete ja tarnijate maksete haldamine.
 
-## Varude haldamine
+## Laohaldus
 
-- Paku tööriistu varude tasemete haldamiseks ja jälgimiseks, sealhulgas varude ülekandeid ja kohandusi.
-- Seadista automaatseid teatisi madalate varude tasemete kohta ja genereeri ostutellimusi, kui on vaja täiendavat varustust.
-- Paku vöötkoodi skannimise võimalusi tõhusaks varude haldamiseks.
-- Võimaldab kasutajatel kategoriseerida tooteid, määratleda atribuute ja seada hinnateavet.
+- Tööriistad laoseisu haldamiseks ja jälgimiseks.
+- Automaatsed teated madala laoseisu kohta.
+- Pakutakse vöötkoodide skanneerimise funktsionaalsust.
+- Kasutajad saavad tooteid kategoriseerida ja hindu määrata.
 
-## Finantsjuhtimine
+## Finantshaldus
 
-- Rakenda pearaamatute süsteem finantstehingute jälgimiseks, sealhulgas kulude ja tulude kohta.
-- Halla saadaolevaid ja saamataolevaid kontosid, sealhulgas arvete koostamine ja maksete jälgimine.
-- Genereeri finantsaruandeid, sealhulgas bilanssi ja kasumiaruannet.
-- Integreeru populaarsete raamatupidamistarkvaradega, et tagada sujuv finantsjuhtimine.
+- Pearaamatu süsteem tehingute jälgimiseks.
+- Debitoorse ja kreditoorse võla haldamine.
+- Finantsaruannete genereerimine.
+- Võimalik integratsioon raamatupidamistarkvaraga.
 
 ## Projektihaldus
 
-- Paku projektihalduse võimalusi, mis võimaldavad kasutajatel luua ja jälgida projekte.
-- Määra ülesandeid meeskonnaliikmetele, seadista tähtajad ja jälgi edenemist.
-- Jaota ressursse ja jälgige projekti kulusid.
-- Paku koostöövõimalusi, nagu dokumentide jagamine ja reaalajas suhtlus.
+- Pakutakse projektihalduse funktsioone.
+- Ülesannete määramine meeskonnaliikmetele.
+- Ressursside jaotamine ja kulude jälgimine.
+- Pakutakse koostööfunktsioone.
 
-## Aruandlus ja analüütika
+## Aruandlus ja Analüüs
 
-- Genereeri põhjalikke aruandeid ja analüüse ettevõtte erinevate aspektide kohta.
-- Paku kohandatavaid juhtpaneeli, et jälgida olulisi jõudlusnäitajaid (KPI-d).
-- Võimalda kasutajatel määratleda kohandatud aruandeid vastavalt konkreetsetele nõuetele.
-- Rakenda andmete visualiseerimise tehnikaid, et esitada teavet visuaalselt atraktiivsel viisil.
+- Põhjalike aruannete genereerimine äri erinevate aspektide kohta.
+- Pakutakse kohandatavaid juhtpaneele.
+- Kasutajad saavad määratleda kohandatud aruandeid.
+- Rakendatakse andmete visualiseerimise tehnikaid.
 
-## Integreerimine ja kohandamine
+## Integratsioon ja Kohandamine
 
-- Võimalda integreerimist populaarsete kolmanda osapoole rakenduste või API-dega, nagu e-posti turundustööriistad või CRM platvormid.
-- Lubage rakenduse funktsionaalsuse ja välimuse kohandamist vastavalt konkreetsetele ärinõuetele.
-- Paku API-d või veebikonksusid, et hõlbustada andmevahetust ERP & CRM rakenduse ja teiste süsteemide vahel.
+- Võimalik integratsioon kolmandate osapoolte rakendustega.
+- Funktsioonide kohandamine vastavalt vajadustele.
+- Pakutakse API-t andmevahetuseks.
 
-## Kasutajasõbralik liides
+## Kasutajaliides
 
-- Kujundage intuitiivne, reageeriv ja kasutajasõbralik liides, kasutades React.js ja Ant Designi.
-- Rakenda lihtsasti kasutatavaid navigeerimismenüüsid, otsingufunktsioone ja filtreid.
-- Taga järjepidev ja visuaalselt atraktiivne kasutajaliides erinevatel seadmetel ja ekraanisuurustel.
+- Intuitiivne ja reageeriv liides React.js ja Ant Design abil.
+- Lihtsalt kasutatavad navigeerimismenüüd ja filtrid.
+- Järjepidev liides erinevatel seadmetel.

@@ -1,76 +1,74 @@
-# finrarmag Logiciel ERP & CRM Open-Source
+# Logiciel ERP & CRM Open Source finrarmag
 
-GitHub : [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Démo : [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Site Web : [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Stack logiciel
+## Stack Technique
 
-finrarmag est une application ERP & CRM open-source gratuite, basée sur la pile "mern-stack" : Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag est une application ERP & CRM open source gratuite basée sur la "mern-stack". Elle utilise les technologies suivantes : Node.js, React.js, Redux, Express.js, MongoDB et Ant Design (AntD).
 
-## Gestion des utilisateurs
+## Gestion des Utilisateurs
 
-- Permettre aux administrateurs de créer, éditer et supprimer des comptes utilisateur.
-- Mettre en place un contrôle d'accès basé sur les rôles pour gérer les autorisations des utilisateurs.
-- Fournir des mécanismes d'authentification et d'autorisation pour garantir un accès sécurisé.
+- Les administrateurs peuvent créer, modifier et supprimer des comptes utilisateurs.
+- Le contrôle d'accès basé sur les rôles est implémenté pour gérer les permissions des utilisateurs.
+- Des mécanismes d'authentification et d'autorisation assurent un accès sécurisé.
 
-## Gestion de la relation client (CRM)
+## Gestion de la Relation Client (CRM)
 
-- Permettre aux utilisateurs de créer et de gérer des fiches de contact pour les prospects et les clients.
-- Mettre en place des fonctionnalités de génération et de qualification des leads pour suivre les opportunités de vente potentielles.
-- Fournir des outils pour gérer l'historique des communications avec les clients, y compris les e-mails, les appels et les réunions.
-- Permettre aux utilisateurs de planifier des rendez-vous et d'envoyer des notifications ou des rappels aux clients.
+- Les utilisateurs peuvent créer et gérer des fiches de contact pour les prospects et les clients.
+- Des fonctionnalités de génération et de qualification de leads sont implémentées pour suivre les opportunités de vente.
+- Des outils sont fournis pour gérer l'historique des communications avec les clients.
+- Les utilisateurs peuvent planifier des rendez-vous et envoyer des notifications aux clients.
 
-## Gestion des ventes
+## Gestion des Ventes
 
-- Permettre aux utilisateurs de créer et de gérer des commandes de vente, en les associant à des clients spécifiques.
-- Mettre en place un suivi des stocks pour vérifier la disponibilité des produits et mettre à jour les niveaux de stock après chaque vente.
-- Générer des factures et gérer l'intégration des paiements avec des passerelles de paiement populaires.
-- Fournir des tableaux de bord et des rapports pour surveiller les performances des ventes et analyser les tendances.
+- Les utilisateurs peuvent créer et gérer des commandes clients.
+- Le suivi des stocks est implémenté pour vérifier la disponibilité des produits.
+- Les factures sont générées et l'intégration avec les systèmes de paiement est gérée.
+- Des tableaux de bord sont fournis pour suivre les performances commerciales.
 
-## Gestion des achats
+## Gestion des Achats
 
-- Permettre aux utilisateurs de créer et de gérer des commandes d'achat, en spécifiant la quantité et les produits souhaités.
-- Suivre les informations sur les fournisseurs et gérer les relations avec les fournisseurs.
-- Réceptionner les marchandises et mettre à jour les niveaux de stock en conséquence.
-- Gérer les factures d'achat et les paiements aux fournisseurs.
+- Les utilisateurs peuvent créer et gérer des bons de commande.
+- Les informations fournisseurs sont suivies et les relations sont gérées.
+- La réception des marchandises et la mise à jour des stocks sont assurées.
+- Les factures d'achat et les paiements aux fournisseurs sont gérés.
 
-## Gestion des stocks
+## Gestion des Stocks
 
-- Fournir des outils pour gérer et suivre les niveaux de stock, y compris les transferts de stock et les ajustements.
-- Mettre en place des notifications automatiques pour les niveaux de stock bas et générer des commandes d'achat lorsque le réapprovisionnement est nécessaire.
-- Offrir des capacités de numérisation de codes-barres pour une gestion efficace des stocks.
-- Permettre aux utilisateurs de catégoriser les produits, de définir des attributs et des informations de tarification.
+- Des outils sont fournis pour gérer et suivre les niveaux de stock.
+- Des notifications automatiques sont configurées pour les stocks bas.
+- Des capacités de lecture de codes-barres sont offertes.
+- Les utilisateurs peuvent catégoriser les produits et définir les prix.
 
-## Gestion financière
+## Gestion Financière
 
-- Mettre en place un système de grand livre pour suivre les transactions financières, y compris les dépenses et les revenus.
-- Gérer les comptes clients et les comptes fournisseurs, y compris la facturation et le suivi des paiements.
-- Générer des rapports financiers, y compris les bilans et les comptes de résultats.
-- Intégrer des logiciels comptables populaires pour une gestion financière transparente.
+- Un système de grand livre est implémenté pour suivre les transactions.
+- Les comptes clients et fournisseurs sont gérés.
+- Des rapports financiers sont générés.
+- L'intégration avec les logiciels de comptabilité est possible.
 
-## Gestion de projet
+## Gestion de Projet
 
-- Fournir des fonctionnalités de gestion de projet, permettant aux utilisateurs de créer et de suivre des projets.
-- Assigner des tâches aux membres de l'équipe, fixer des délais et suivre les progrès.
-- Allouer des ressources et suivre les dépenses liées aux projets.
-- Offrir des fonctionnalités de collaboration telles que le partage de documents et la communication en temps réel.
+- Des capacités de gestion de projet sont fournies.
+- Les tâches peuvent être assignées aux membres de l'équipe.
+- Les ressources peuvent être allouées et les dépenses suivies.
+- Des fonctionnalités de collaboration sont offertes.
 
-## Rapports et analyses
+## Rapports et Analyses
 
-- Générer des rapports complets et des analyses sur différents aspects de l'entreprise.
-- Fournir des tableaux de bord personnalisables pour suivre les indicateurs de performance clés (KPI).
-- Permettre aux utilisateurs de définir des rapports personnalisés en fonction de leurs besoins spécifiques.
-- Mettre en place des techniques de visualisation des données pour présenter les informations de manière attrayante.
+- Des rapports complets sont générés sur divers aspects de l'entreprise.
+- Des tableaux de bord personnalisables sont fournis.
+- Les utilisateurs peuvent définir des rapports personnalisés.
+- Des techniques de visualisation de données sont implémentées.
 
-## Intégration et personnalisation
+## Intégration et Personnalisation
 
-- Permettre l'intégration avec des applications tierces populaires ou des API, telles que des outils de marketing par e-mail ou des plateformes CRM.
-- Permettre la personnalisation de la fonctionnalité et de l'apparence de l'application en fonction des besoins spécifiques de l'entreprise.
-- Fournir une API ou des webhooks pour faciliter l'échange de données entre l'application ERP & CRM et d'autres systèmes.
+- L'intégration avec des applications tierces est possible.
+- Les fonctionnalités peuvent être personnalisées selon les besoins.
+- Une API est fournie pour faciliter l'échange de données.
 
-## Interface conviviale
+## Interface Utilisateur
 
-- Concevoir une interface intuitive, réactive et conviviale en utilisant React.js et Ant Design.
-- Mettre en place des menus de navigation faciles à utiliser, des fonctionnalités de recherche et des filtres.
-- Assurer une interface utilisateur cohérente et visuellement attrayante sur différents appareils et tailles d'écran.
+- Une interface intuitive et responsive est conçue avec React.js et Ant Design.
+- Des menus de navigation et des filtres faciles à utiliser sont implémentés.
+- Une interface cohérente est assurée sur différents appareils.

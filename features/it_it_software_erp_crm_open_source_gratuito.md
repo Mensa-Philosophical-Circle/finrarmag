@@ -1,76 +1,74 @@
-# finrarmag Software ERP e CRM Open-Source
+# Software ERP & CRM Open Source finrarmag
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Sito web: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Stack Software
+## Stack Tecnologico
 
-finrarmag è un'app ERP e CRM open-source gratuita, basata su "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag è un'applicazione ERP & CRM open source gratuita basata su "mern-stack". Utilizza le seguenti tecnologie: Node.js, React.js, Redux, Express.js, MongoDB e Ant Design (AntD).
 
 ## Gestione Utenti
 
-- Consenti agli amministratori di creare, modificare ed eliminare account utente.
-- Implementa un controllo degli accessi basato sui ruoli per gestire le autorizzazioni degli utenti.
-- Fornisci meccanismi di autenticazione e autorizzazione per garantire un accesso sicuro.
+- Gli amministratori possono creare, modificare ed eliminare account utente.
+- Il controllo degli accessi basato sui ruoli è implementato per gestire le autorizzazioni.
+- Meccanismi di autenticazione e autorizzazione garantiscono un accesso sicuro.
 
 ## Gestione delle Relazioni con i Clienti (CRM)
 
-- Consenti agli utenti di creare e gestire record di contatto per potenziali clienti e clienti.
-- Implementa funzionalità di generazione e qualificazione dei lead per tracciare opportunità di vendita potenziali.
-- Fornisci strumenti per gestire la cronologia delle comunicazioni con i clienti, inclusi email, chiamate e incontri.
-- Consenti agli utenti di pianificare appuntamenti e inviare notifiche o promemoria ai clienti.
+- Gli utenti possono creare e gestire contatti per lead e clienti.
+- Funzionalità di generazione e qualificazione dei lead per monitorare le opportunità.
+- Strumenti per gestire la cronologia delle comunicazioni con i clienti.
+- Gli utenti possono pianificare appuntamenti e inviare notifiche ai clienti.
 
-## Gestione delle Vendite
+## Gestione Vendite
 
-- Consenti agli utenti di creare e gestire ordini di vendita, associandoli a clienti specifici.
-- Implementa il tracciamento dell'inventario per verificare la disponibilità dei prodotti e aggiornare i livelli di stock dopo ogni vendita.
-- Genera fatture e gestisci l'integrazione dei pagamenti con popolari gateway di pagamento.
-- Fornisci dashboard e report per monitorare le prestazioni delle vendite e analizzare le tendenze.
+- Gli utenti possono creare e gestire ordini di vendita.
+- Il monitoraggio dell'inventario verifica la disponibilità dei prodotti.
+- Le fatture vengono generate e l'integrazione dei pagamenti viene gestita.
+- Dashboard per monitorare le prestazioni di vendita.
 
-## Gestione degli Acquisti
+## Gestione Acquisti
 
-- Consenti agli utenti di creare e gestire ordini di acquisto, specificando la quantità e i prodotti desiderati.
-- Tieni traccia delle informazioni sui fornitori e gestisci le relazioni con i fornitori.
-- Ricevi merci e aggiorna di conseguenza i livelli di inventario.
-- Gestisci fatture di acquisto e pagamenti ai fornitori.
+- Gli utenti possono creare e gestire ordini di acquisto.
+- Le informazioni sui fornitori vengono monitorate e le relazioni gestite.
+- Ricezione merci e aggiornamento inventario vengono gestiti.
+- Fatture di acquisto e pagamenti ai fornitori vengono gestiti.
 
-## Gestione dell'Inventario
+## Gestione Magazzino
 
-- Fornisci strumenti per gestire e tracciare i livelli di inventario, inclusi trasferimenti di stock e regolazioni.
-- Imposta notifiche automatiche per i livelli di stock bassi e genera ordini di acquisto quando è necessario rifornirsi.
-- Offri funzionalità di scansione dei codici a barre per una gestione efficiente dell'inventario.
-- Consenti agli utenti di categorizzare i prodotti, definire attributi e impostare informazioni sui prezzi.
+- Strumenti per gestire e monitorare i livelli di magazzino.
+- Notifiche automatiche per scorte basse.
+- Funzionalità di scansione codici a barre.
+- Gli utenti possono categorizzare prodotti e definire prezzi.
 
 ## Gestione Finanziaria
 
-- Implementa un sistema di contabilità generale per tracciare le transazioni finanziarie, inclusi spese e entrate.
-- Gestisci i crediti e i debiti, inclusa la fatturazione e il tracciamento dei pagamenti.
-- Genera report finanziari, inclusi bilanci e conti economici.
-- Integra con software di contabilità popolari per una gestione finanziaria senza soluzione di continuità.
+- Sistema di contabilità generale per monitorare le transazioni.
+- Gestione di crediti e debiti.
+- Generazione di report finanziari.
+- Integrazione con software di contabilità.
 
-## Gestione dei Progetti
+## Gestione Progetti
 
-- Fornisci funzionalità di gestione dei progetti, consentendo agli utenti di creare e monitorare progetti.
-- Assegna compiti ai membri del team, imposta scadenze e monitora i progressi.
-- Alloca risorse e monitora le spese del progetto.
-- Offri funzionalità di collaborazione come la condivisione di documenti e la comunicazione in tempo reale.
+- Funzionalità di gestione progetti disponibili.
+- I compiti possono essere assegnati ai membri del team.
+- Le risorse possono essere allocate e le spese monitorate.
+- Funzionalità di collaborazione disponibili.
 
-## Reporting e Analisi
+## Report e Analisi
 
-- Genera report e analisi completi su vari aspetti dell'attività.
-- Fornisci dashboard personalizzabili per monitorare gli indicatori chiave di performance (KPI).
-- Consenti agli utenti di definire report personalizzati in base a requisiti specifici.
-- Implementa tecniche di visualizzazione dei dati per presentare le informazioni in modo accattivante dal punto di vista visivo.
+- Report completi generati su vari aspetti del business.
+- Dashboard personalizzabili disponibili.
+- Gli utenti possono definire report personalizzati.
+- Tecniche di visualizzazione dati implementate.
 
 ## Integrazione e Personalizzazione
 
-- Consenti l'integrazione con applicazioni o API di terze parti popolari, come strumenti di email marketing o piattaforme CRM.
-- Consenti la personalizzazione delle funzionalità e dell'aspetto dell'app in base alle specifiche esigenze aziendali.
-- Fornisci un'API o webhook per facilitare lo scambio di dati tra l'app ERP e CRM e altri sistemi.
+- Integrazione con applicazioni di terze parti possibile.
+- Funzionalità personalizzabili secondo necessità.
+- API fornita per lo scambio dati.
 
-## Interfaccia Utente User-friendly
+## Interfaccia Utente
 
-- Progetta un'interfaccia intuitiva, responsiva e user-friendly utilizzando React.js e Ant Design.
-- Implementa menu di navigazione facili da usare, funzionalità di ricerca e filtri.
-- Assicura un'interfaccia utente coerente e visivamente accattivante su diversi dispositivi e dimensioni dello schermo.
+- Interfaccia intuitiva e responsive con React.js e Ant Design.
+- Menu di navigazione e filtri facili da usare.
+- Interfaccia coerente su diversi dispositivi.

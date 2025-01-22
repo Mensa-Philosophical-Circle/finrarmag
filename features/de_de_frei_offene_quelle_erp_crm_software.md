@@ -1,76 +1,76 @@
-# finrarmag Open-Source ERP & CRM Software
+# finrarmag Open Source ERP & CRM Software
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
 Website: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
 
 ## Software-Stack
 
-finrarmag Kostenlose Open-Source ERP & CRM Anwendung, basierend auf dem "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag ist eine kostenlose Open-Source ERP & CRM Anwendung basierend auf dem "mern-stack". Sie verwendet folgende Technologien: Node.js, React.js, Redux, Express.js, MongoDB und Ant Design (AntD).
 
 ## Benutzerverwaltung
 
-- Ermöglichen Sie Administratoren die Erstellung, Bearbeitung und Löschung von Benutzerkonten.
-- Implementieren Sie rollenbasierte Zugriffskontrolle zur Verwaltung von Benutzerberechtigungen.
-- Bieten Sie Authentifizierungs- und Autorisierungsmechanismen, um einen sicheren Zugriff zu gewährleisten.
+- Administratoren können Benutzerkonten erstellen, bearbeiten und löschen.
+- Rollenbasierte Zugangskontrolle zur Verwaltung von Benutzerberechtigungen.
+- Authentifizierungs- und Autorisierungsmechanismen gewährleisten sicheren Zugriff.
 
 ## Kundenbeziehungsmanagement (CRM)
 
-- Ermöglichen Sie Benutzern die Erstellung und Verwaltung von Kontaktdaten für Leads, Interessenten und Kunden.
-- Implementieren Sie Funktionen zur Lead-Generierung und -Qualifizierung, um potenzielle Verkaufschancen zu verfolgen.
-- Bieten Sie Tools zur Verwaltung der Kommunikationshistorie mit Kunden, einschließlich E-Mails, Anrufen und Meetings.
-- Ermöglichen Sie Benutzern die Planung von Terminen und den Versand von Benachrichtigungen oder Erinnerungen an Kunden.
+- Benutzer können Kontaktdatensätze für Leads und Kunden erstellen und verwalten.
+- Lead-Generierung und Qualifizierungsfunktionen zur Verfolgung von Verkaufschancen.
+- Tools zur Verwaltung der Kundenkommunikationshistorie.
+- Benutzer können Termine planen und Benachrichtigungen an Kunden senden.
 
 ## Vertriebsmanagement
 
-- Ermöglichen Sie Benutzern die Erstellung und Verwaltung von Verkaufsaufträgen und deren Zuordnung zu bestimmten Kunden.
-- Implementieren Sie eine Bestandsverfolgung, um die Produktverfügbarkeit zu überprüfen und die Lagerbestände nach jedem Verkauf zu aktualisieren.
-- Generieren Sie Rechnungen und integrieren Sie sich mit gängigen Zahlungsgateways.
-- Bieten Sie Dashboards und Berichte zur Überwachung der Verkaufsleistung und zur Analyse von Trends.
+- Benutzer können Verkaufsaufträge erstellen und verwalten.
+- Bestandsverfolgung zur Überprüfung der Produktverfügbarkeit.
+- Rechnungen werden generiert und Zahlungsintegration wird verwaltet.
+- Dashboards zur Überwachung der Vertriebsleistung.
 
 ## Einkaufsmanagement
 
-- Ermöglichen Sie Benutzern die Erstellung und Verwaltung von Bestellungen und die Angabe von Menge und gewünschten Produkten.
-- Verfolgen Sie Lieferanteninformationen und verwalten Sie Lieferantenbeziehungen.
-- Nehmen Sie Waren entgegen und aktualisieren Sie die Lagerbestände entsprechend.
-- Bearbeiten Sie Einkaufsrechnungen und Zahlungen an Lieferanten.
+- Benutzer können Bestellungen erstellen und verwalten.
+- Lieferanteninformationen werden verfolgt und Beziehungen verwaltet.
+- Wareneingang und Bestandsaktualisierung werden durchgeführt.
+- Einkaufsrechnungen und Lieferantenzahlungen werden verwaltet.
 
 ## Lagerverwaltung
 
-- Bieten Sie Tools zur Verwaltung und Verfolgung der Lagerbestände, einschließlich Lagertransfers und Anpassungen.
-- Richten Sie automatische Benachrichtigungen für niedrige Lagerbestände ein und generieren Sie Bestellungen, wenn eine Nachbestellung erforderlich ist.
-- Bieten Sie Barcode-Scan-Funktionen für eine effiziente Lagerverwaltung.
-- Ermöglichen Sie Benutzern die Kategorisierung von Produkten, die Definition von Attributen und die Festlegung von Preisinformationen.
+- Tools zur Verwaltung und Verfolgung von Lagerbeständen.
+- Automatische Benachrichtigungen bei niedrigen Beständen.
+- Barcode-Scanning-Funktionen werden angeboten.
+- Benutzer können Produkte kategorisieren und Preise festlegen.
 
-## Finanzmanagement
+## Finanzverwaltung
 
-- Implementieren Sie ein Hauptbuchsystem zur Verfolgung von Finanztransaktionen, einschließlich Ausgaben und Einnahmen.
-- Verwalten Sie Forderungen und Verbindlichkeiten, einschließlich Rechnungsstellung und Zahlungsverfolgung.
-- Generieren Sie Finanzberichte, einschließlich Bilanzen und Gewinn- und Verlustrechnungen.
-- Integrieren Sie sich mit gängiger Buchhaltungssoftware für nahtloses Finanzmanagement.
+- Ein Hauptbuchsystem zur Verfolgung von Transaktionen.
+- Debitoren und Kreditoren werden verwaltet.
+- Finanzberichte werden generiert.
+- Integration mit Buchhaltungssoftware ist möglich.
 
 ## Projektmanagement
 
-- Bieten Sie Projektmanagementfunktionen, mit denen Benutzer Projekte erstellen und verfolgen können.
-- Weisen Sie Aufgaben an Teammitglieder zu, setzen Sie Fristen und überwachen Sie den Fortschritt.
-- Weisen Sie Ressourcen zu und verfolgen Sie Projektausgaben.
-- Bieten Sie Kollaborationsfunktionen wie das Teilen von Dokumenten und die Echtzeitkommunikation.
+- Projektmanagement-Funktionen werden bereitgestellt.
+- Aufgaben können Teammitgliedern zugewiesen werden.
+- Ressourcen können zugewiesen und Ausgaben verfolgt werden.
+- Kollaborationsfunktionen werden angeboten.
 
-## Berichterstattung und Analyse
+## Berichte und Analysen
 
-- Generieren Sie umfassende Berichte und Analysen zu verschiedenen Aspekten des Unternehmens.
-- Bieten Sie anpassbare Dashboards zur Überwachung von Leistungskennzahlen (KPIs).
-- Ermöglichen Sie Benutzern die Definition benutzerdefinierter Berichte basierend auf spezifischen Anforderungen.
-- Implementieren Sie Datenvisualisierungstechniken, um Informationen auf ansprechende Weise darzustellen.
+- Umfassende Berichte werden zu verschiedenen Geschäftsaspekten erstellt.
+- Anpassbare Dashboards werden bereitgestellt.
+- Benutzer können benutzerdefinierte Berichte erstellen.
+- Datenvisualisierungstechniken werden implementiert.
 
 ## Integration und Anpassung
 
-- Ermöglichen Sie die Integration mit gängigen Drittanbieter-Anwendungen oder APIs, wie z.B. E-Mail-Marketing-Tools oder CRM-Plattformen.
-- Erlauben Sie die Anpassung der Funktionalität und des Erscheinungsbilds der Anwendung basierend auf spezifischen Geschäftsanforderungen.
-- Bieten Sie eine API oder Webhooks zur erleichterten Datenübertragung zwischen der ERP & CRM Anwendung und anderen Systemen.
+- Integration mit Drittanwendungen ist möglich.
+- Funktionalitäten können nach Bedarf angepasst werden.
+- Eine API wird für den Datenaustausch bereitgestellt.
 
-## Benutzerfreundliche Benutzeroberfläche
+## Benutzeroberfläche
 
-- Entwerfen Sie eine intuitive, reaktionsfähige und benutzerfreundliche Benutzeroberfläche mit React.js und Ant Design.
-- Implementieren Sie benutzerfreundliche Navigationsmenüs, Suchfunktionen und Filter.
-- Stellen Sie eine konsistente und visuell ansprechende Benutzeroberfläche auf verschiedenen Geräten und Bildschirmgrößen sicher.
+- Eine intuitive und responsive Oberfläche mit React.js und Ant Design.
+- Benutzerfreundliche Navigationsmenüs und Filter.
+- Konsistente Benutzeroberfläche auf verschiedenen Geräten.

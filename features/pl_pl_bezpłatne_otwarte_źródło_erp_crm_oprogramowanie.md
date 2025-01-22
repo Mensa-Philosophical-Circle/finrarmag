@@ -1,76 +1,74 @@
-# Oprogramowanie finrarmag Open-Source ERP & CRM
+# finrarmag Darmowe Oprogramowanie ERP & CRM z Otwartym Źródłem
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Strona internetowa: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Stos technologiczny
+## Stos Technologiczny
 
-finrarmag Free to darmowe oprogramowanie ERP & CRM oparte na "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag to darmowa aplikacja ERP & CRM z otwartym źródłem oparta na technologii "mern-stack": Node.js, React.js, Redux, Express.js, MongoDB i Ant Design (AntD).
 
-## Zarządzanie użytkownikami
+## Zarządzanie Użytkownikami
 
-- Pozwala administratorom tworzyć, edytować i usuwać konta użytkowników.
-- Wdraża oparte na rolach zarządzanie dostępem do zarządzania uprawnieniami użytkowników.
-- Zapewnia mechanizmy uwierzytelniania i autoryzacji w celu zapewnienia bezpiecznego dostępu.
+- Administratorzy mogą tworzyć, edytować i usuwać konta użytkowników.
+- Kontrola dostępu oparta na rolach do zarządzania uprawnieniami.
+- Bezpieczny dostęp poprzez uwierzytelnianie i autoryzację.
 
-## Zarządzanie relacjami z klientami (CRM)
+## Zarządzanie Relacjami z Klientami (CRM)
 
-- Umożliwia użytkownikom tworzenie i zarządzanie rekordami kontaktowymi dla potencjalnych klientów i klientów.
-- Wdraża funkcje generowania i kwalifikowania potencjalnych leadów w celu śledzenia możliwości sprzedaży.
-- Udostępnia narzędzia do zarządzania historią komunikacji z klientami, w tym e-mailem, rozmowami telefonicznymi i spotkaniami.
-- Pozwala użytkownikom planować spotkania i wysyłać powiadomienia lub przypomnienia do klientów.
+- Użytkownicy mogą tworzyć i zarządzać informacjami kontaktowymi potencjalnych i obecnych klientów.
+- Generowanie i kwalifikacja leadów do śledzenia możliwości sprzedaży.
+- Narzędzia do zarządzania historią komunikacji z klientami.
+- Użytkownicy mogą planować spotkania i wysyłać powiadomienia do klientów.
 
-## Zarządzanie sprzedażą
+## Zarządzanie Sprzedażą
 
-- Pozwala użytkownikom tworzyć i zarządzać zamówieniami sprzedaży, powiązując je z konkretnymi klientami.
-- Wdraża śledzenie stanu magazynowego w celu sprawdzenia dostępności produktów i aktualizacji poziomów zapasów po każdej sprzedaży.
-- Generuje faktury i obsługuje integrację płatności z popularnymi bramkami płatności.
-- Udostępnia panele i raporty do monitorowania wyników sprzedaży i analizy trendów.
+- Użytkownicy mogą tworzyć i zarządzać zamówieniami sprzedaży.
+- Zarządzanie zapasami do sprawdzania dostępności produktów.
+- Generowanie faktur i zarządzanie płatnościami.
+- Panel kontrolny do monitorowania wyników sprzedaży.
 
-## Zarządzanie zakupami
+## Zarządzanie Zakupami
 
-- Pozwala użytkownikom tworzyć i zarządzać zamówieniami zakupu, określając ilość i pożądane produkty.
-- Śledzi informacje o dostawcach i zarządza relacjami z dostawcami.
-- Odbiera towary i aktualizuje poziomy zapasów odpowiednio.
-- Obsługuje faktury zakupowe i płatności dla dostawców.
+- Użytkownicy mogą tworzyć i zarządzać zamówieniami zakupu.
+- Śledzenie informacji o dostawcach i zarządzanie relacjami.
+- Przyjmowanie produktów i aktualizacja zapasów.
+- Zarządzanie fakturami zakupu i płatnościami dla dostawców.
 
-## Zarządzanie magazynem
+## Zarządzanie Zapasami
 
-- Udostępnia narzędzia do zarządzania i śledzenia poziomów zapasów, w tym transferów i dostosowań zapasów.
-- Umożliwia ustawienie automatycznych powiadomień o niskim poziomie zapasów i generowanie zamówień zakupu w przypadku konieczności uzupełnienia zapasów.
-- Oferuje możliwość skanowania kodów kreskowych w celu efektywnego zarządzania zapasami.
-- Umożliwia użytkownikom kategoryzowanie produktów, definiowanie atrybutów i ustalanie informacji o cenach.
+- Narzędzia do zarządzania i śledzenia poziomów zapasów.
+- Automatyczne powiadomienia o niskich poziomach zapasów.
+- Funkcjonalność skanowania kodów kreskowych.
+- Użytkownicy mogą kategoryzować produkty i ustalać ceny.
 
-## Zarządzanie finansowe
+## Zarządzanie Finansami
 
-- Wdraża system księgowy do śledzenia transakcji finansowych, w tym wydatków i przychodów.
-- Zarządza należnościami i zobowiązaniami, w tym fakturowaniem i śledzeniem płatności.
-- Generuje raporty finansowe, w tym bilanse i rachunki zysków i strat.
-- Integruje się z popularnym oprogramowaniem księgowym dla płynnego zarządzania finansami.
+- System księgi głównej do śledzenia transakcji.
+- Zarządzanie należnościami i zobowiązaniami.
+- Generowanie raportów finansowych.
+- Możliwość integracji z oprogramowaniem księgowym.
 
-## Zarządzanie projektami
+## Zarządzanie Projektami
 
-- Oferuje możliwości zarządzania projektami, umożliwiając użytkownikom tworzenie i śledzenie projektów.
-- Przydziela zadania członkom zespołu, ustala terminy i monitoruje postępy.
-- Przydzielanie zasobów i śledzenie kosztów projektu.
-- Oferuje funkcje współpracy, takie jak udostępnianie dokumentów i komunikacja w czasie rzeczywistym.
+- Funkcje zarządzania projektami.
+- Przydzielanie zadań członkom zespołu.
+- Alokacja zasobów i śledzenie kosztów.
+- Funkcje współpracy.
 
-## Raportowanie i analiza
+## Raportowanie i Analityka
 
-- Generuje kompleksowe raporty i analizy dotyczące różnych aspektów działalności.
-- Udostępnia spersonalizowane panele do monitorowania kluczowych wskaźników wydajności (KPI).
-- Pozwala użytkownikom definiować niestandardowe raporty zgodnie z konkretnymi wymaganiami.
-- Wdraża techniki wizualizacji danych w celu przedstawienia informacji w atrakcyjny sposób wizualny.
+- Generowanie kompleksowych raportów o różnych aspektach biznesu.
+- Konfigurowalne panele kontrolne.
+- Użytkownicy mogą definiować niestandardowe raporty.
+- Techniki wizualizacji danych.
 
-## Integracja i dostosowanie
+## Integracja i Dostosowywanie
 
-- Umożliwia integrację z popularnymi aplikacjami zewnętrznymi lub interfejsami API, takimi jak narzędzia do marketingu mailowego lub platformy CRM.
-- Pozwala dostosować funkcjonalność i wygląd aplikacji zgodnie z konkretnymi potrzebami biznesowymi.
-- Udostępnia interfejs API lub webhooki do ułatwienia wymiany danych między aplikacją ERP & CRM a innymi systemami.
+- Możliwość integracji z aplikacjami innych firm.
+- Dostosowywanie funkcji według potrzeb.
+- API do wymiany danych.
 
-## Przyjazny interfejs użytkownika
+## Interfejs Użytkownika
 
-- Projektuje intuicyjny, responsywny i przyjazny dla użytkownika interfejs przy użyciu React.js i Ant Design.
-- Wdraża łatwo obsługiwane menu nawigacyjne, funkcje wyszukiwania i filtry.
-- Zapewnia spójny i atrakcyjny wizualnie interfejs użytkownika na różnych urządzeniach i rozmiarach ekranu.
+- Intuicyjny i responsywny interfejs z React.js i Ant Design.
+- Łatwe w użyciu menu nawigacyjne i filtry.
+- Spójny interfejs na różnych urządzeniach.

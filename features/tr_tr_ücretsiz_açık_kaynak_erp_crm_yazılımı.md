@@ -1,76 +1,74 @@
-# finrarmag Açık Kaynaklı ERP ve CRM Yazılımı
+# finrarmag Açık Kaynak ERP & CRM Yazılımı
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Web sitesi: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
 ## Yazılım Yığını
 
-finrarmag Ücretsiz açık kaynaklı erp ve crm uygulaması, "mern-stack" üzerine kuruludur: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag, "mern-stack" tabanlı ücretsiz açık kaynak ERP & CRM uygulamasıdır. Şu teknolojileri kullanır: Node.js, React.js, Redux, Express.js, MongoDB ve Ant Design (AntD).
 
 ## Kullanıcı Yönetimi
 
-- Yöneticilere kullanıcı hesapları oluşturma, düzenleme ve silme izni verir.
-- Kullanıcı izinlerini yönetmek için rol tabanlı erişim kontrolü uygular.
-- Güvenli erişimi sağlamak için kimlik doğrulama ve yetkilendirme mekanizmaları sağlar.
+- Yöneticiler kullanıcı hesaplarını oluşturabilir, düzenleyebilir ve silebilir.
+- Yetki yönetimi için rol tabanlı erişim kontrolü.
+- Kimlik doğrulama ve yetkilendirme mekanizmaları ile güvenli erişim.
 
 ## Müşteri İlişkileri Yönetimi (CRM)
 
-- Kullanıcıların potansiyel satış fırsatlarını takip etmek için müşteri adayları ve müşteriler için iletişim kayıtları oluşturmasına ve yönetmesine olanak tanır.
-- Potansiyel satış fırsatlarını takip etmek ve değerlendirmek için lead jenerasyon ve nitelendirme işlevlerini uygular.
-- E-postalar, telefon görüşmeleri ve toplantılar da dahil olmak üzere müşteri iletişim geçmişini yönetmek için araçlar sağlar.
-- Kullanıcıların randevuları planlamasına ve müşterilere bildirim veya hatırlatıcı göndermesine izin verir.
+- Kullanıcılar potansiyel müşteri ve müşteri iletişim bilgilerini oluşturabilir ve yönetebilir.
+- Satış fırsatlarını takip etmek için potansiyel müşteri oluşturma ve değerlendirme.
+- Müşteri iletişim geçmişini yönetmek için araçlar.
+- Kullanıcılar randevu planlayabilir ve müşterilere bildirim gönderebilir.
 
 ## Satış Yönetimi
 
-- Kullanıcıların belirli müşterilerle ilişkilendirerek satış siparişleri oluşturmasına ve yönetmesine izin verir.
-- Her satıştan sonra ürün mevcudiyetini kontrol etmek ve stok seviyelerini güncellemek için envanter takibi yapar.
-- Faturalar oluşturur ve popüler ödeme geçitleriyle ödeme entegrasyonunu yönetir.
-- Satış performansını izlemek ve trendleri analiz etmek için panolar ve raporlar sağlar.
+- Kullanıcılar satış siparişlerini oluşturabilir ve yönetebilir.
+- Ürün mevcudiyetini kontrol etmek için stok yönetimi.
+- Faturalar oluşturulur ve ödeme entegrasyonları yönetilir.
+- Satış performansını izlemek için gösterge paneli.
 
 ## Satın Alma Yönetimi
 
-- Kullanıcıların miktarı ve istenen ürünleri belirterek satın alma siparişleri oluşturmasına ve yönetmesine izin verir.
-- Tedarikçi bilgilerini takip eder ve tedarikçi ilişkilerini yönetir.
-- Malzemeleri teslim alır ve envanter seviyelerini buna göre günceller.
-- Satın alma faturalarını ve tedarikçilere yapılan ödemeleri yönetir.
+- Kullanıcılar satın alma siparişlerini oluşturabilir ve yönetebilir.
+- Tedarikçi bilgileri takip edilir ve ilişkiler yönetilir.
+- Ürün alımı ve stok güncellemeleri gerçekleştirilir.
+- Satın alma faturaları ve tedarikçi ödemeleri yönetilir.
 
 ## Stok Yönetimi
 
-- Stok transferleri ve düzeltmeler de dahil olmak üzere stok seviyelerini yönetmek ve takip etmek için araçlar sağlar.
-- Düşük stok seviyeleri için otomatik bildirimler sağlar ve yeniden stoklama gerektiğinde satın alma siparişleri oluşturur.
-- Verimli stok yönetimi için barkod tarama yetenekleri sunar.
-- Kullanıcılara ürünleri kategorize etme, öznitelikleri tanımlama ve fiyatlandırma bilgilerini belirleme imkanı sunar.
+- Stok seviyelerini yönetmek ve takip etmek için araçlar.
+- Düşük stok seviyeleri için otomatik bildirimler.
+- Barkod tarama özelliği sunulur.
+- Kullanıcılar ürünleri kategorize edebilir ve fiyatlandırabilir.
 
-## Finansal Yönetim
+## Finans Yönetimi
 
-- Giderler ve gelirler de dahil olmak üzere finansal işlemleri takip etmek için genel muhasebe sistemi uygular.
-- Tahsilat ve ödeme takibi de dahil olmak üzere alacak ve borç hesaplarını yönetir.
-- Bilanço ve gelir tablosu da dahil olmak üzere finansal raporlar oluşturur.
-- Sorunsuz finansal yönetim için popüler muhasebe yazılımlarıyla entegrasyon sağlar.
+- İşlemleri takip etmek için genel muhasebe sistemi.
+- Alacak ve borç hesapları yönetilir.
+- Finansal raporlar oluşturulur.
+- Muhasebe yazılımları ile entegrasyon mümkündür.
 
 ## Proje Yönetimi
 
-- Kullanıcılara projeler oluşturma ve takip etme yeteneği sağlar.
-- Görevleri takım üyelerine atar, son teslim tarihlerini belirler ve ilerlemeyi izler.
-- Kaynakları tahsis eder ve proje giderlerini takip eder.
-- Belge paylaşımı ve anlık iletişim gibi işbirliği özellikleri sunar.
+- Proje yönetimi özellikleri sunulur.
+- Görevler ekip üyelerine atanabilir.
+- Kaynaklar tahsis edilebilir ve maliyetler takip edilebilir.
+- İşbirliği özellikleri sunulur.
 
-## Raporlama ve Analitik
+## Raporlama ve Analiz
 
-- İşletmenin çeşitli yönleriyle ilgili kapsamlı raporlar ve analitikler oluşturur.
-- Anahtar performans göstergelerini (KPI'lar) izlemek için özelleştirilebilir panolar sağlar.
-- Kullanıcıların belirli gereksinimlere dayalı özel raporlar tanımlamasına izin verir.
-- Bilgileri görsel olarak çekici bir şekilde sunmak için veri görselleştirme tekniklerini uygular.
+- İşletmenin çeşitli yönleri hakkında kapsamlı raporlar oluşturulur.
+- Özelleştirilebilir gösterge panelleri sunulur.
+- Kullanıcılar özel raporlar tanımlayabilir.
+- Veri görselleştirme teknikleri uygulanır.
 
 ## Entegrasyon ve Özelleştirme
 
-- E-posta pazarlama araçları veya CRM platformları gibi popüler üçüncü taraf uygulamalar veya API'larla entegrasyonu sağlar.
-- Uygulamanın işlevselliğini ve görünümünü belirli iş gereksinimlerine göre özelleştirmeye izin verir.
-- ERP ve CRM uygulaması ile diğer sistemler arasında veri alışverişini kolaylaştırmak için bir API veya webhooks sağlar.
+- Üçüncü taraf uygulamalarla entegrasyon mümkündür.
+- İhtiyaca göre özellikler özelleştirilebilir.
+- Veri alışverişi için API sağlanır.
 
-## Kullanıcı Dostu Arayüz
+## Kullanıcı Arayüzü
 
-- React.js ve Ant Design kullanarak sezgisel, duyarlı ve kullanıcı dostu bir arayüz tasarlar.
-- Kolay kullanımlı gezinme menüleri, arama işlevleri ve filtreler uygular.
-- Farklı cihazlar ve ekran boyutları arasında tutarlı ve görsel olarak çekici bir kullanıcı arayüzü sağlar.
+- React.js ve Ant Design ile sezgisel ve duyarlı arayüz.
+- Kullanımı kolay gezinme menüleri ve filtreler.
+- Farklı cihazlarda tutarlı arayüz.

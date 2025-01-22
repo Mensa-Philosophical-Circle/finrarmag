@@ -1,76 +1,74 @@
-# Perisian Sumber Terbuka finrarmag ERP & CRM
+# finrarmag Perisian ERP & CRM Sumber Terbuka Percuma
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Laman Web: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Tumpukan Perisian
+## Tindanan Perisian
 
-finrarmag adalah aplikasi ERP & CRM sumber terbuka percuma, berdasarkan "tumpukan mern": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag adalah aplikasi ERP & CRM sumber terbuka percuma yang berasaskan "mern-stack". Ia menggunakan teknologi berikut: Node.js, React.js, Redux, Express.js, MongoDB dan Ant Design (AntD).
 
 ## Pengurusan Pengguna
 
-- Membenarkan pentadbir untuk mencipta, mengedit, dan menghapus akaun pengguna.
-- Menggunakan kawalan akses berdasarkan peranan untuk menguruskan kebenaran pengguna.
-- Menyediakan mekanisme pengesahan dan kebenaran untuk memastikan akses yang selamat.
+- Pentadbir boleh mencipta, mengedit, dan memadam akaun pengguna.
+- Kawalan akses berasaskan peranan untuk pengurusan kebenaran.
+- Akses selamat melalui pengesahan dan kebenaran.
 
 ## Pengurusan Hubungan Pelanggan (CRM)
 
-- Membolehkan pengguna mencipta dan menguruskan rekod hubungan pelanggan untuk prospek, pelanggan potensial, dan pelanggan.
-- Mengimplementasikan fungsi penjanaan dan penilaian prospek untuk mengesan peluang jualan yang berpotensi.
-- Menyediakan alat untuk menguruskan sejarah komunikasi dengan pelanggan, termasuk emel, panggilan, dan pertemuan.
-- Membolehkan pengguna menjadualkan janji temu dan menghantar pemberitahuan atau peringatan kepada pelanggan.
+- Pengguna boleh mencipta dan menguruskan maklumat hubungan bakal pelanggan dan pelanggan.
+- Penjanaan dan kelayakan bakal pelanggan untuk menjejaki peluang jualan.
+- Alat untuk menguruskan sejarah komunikasi pelanggan.
+- Pengguna boleh menjadualkan temu janji dan menghantar pemberitahuan kepada pelanggan.
 
 ## Pengurusan Jualan
 
-- Membolehkan pengguna mencipta dan menguruskan pesanan jualan, mengaitkannya dengan pelanggan tertentu.
-- Mengimplementasikan penjejakan inventori untuk memeriksa ketersediaan produk dan mengemaskini tahap stok setelah setiap jualan.
-- Menghasilkan invois dan menguruskan integrasi pembayaran dengan gerbang pembayaran popular.
-- Menyediakan papan pemuka dan laporan untuk memantau prestasi jualan dan menganalisis trend.
+- Pengguna boleh mencipta dan menguruskan pesanan jualan.
+- Pengurusan inventori untuk memeriksa ketersediaan produk.
+- Penjanaan invois dan pengurusan pembayaran.
+- Papan pemuka untuk memantau prestasi jualan.
 
 ## Pengurusan Pembelian
 
-- Membolehkan pengguna mencipta dan menguruskan pesanan pembelian, menentukan kuantiti dan produk yang dikehendaki.
-- Menjejaki maklumat pembekal dan menguruskan hubungan dengan pembekal.
-- Menerima barang dan mengemaskini tahap inventori mengikut keadaan.
-- Menguruskan invois pembelian dan pembayaran kepada pembekal.
+- Pengguna boleh mencipta dan menguruskan pesanan pembelian.
+- Penjejakan maklumat pembekal dan pengurusan hubungan.
+- Penerimaan produk dan pengemaskinian inventori.
+- Pengurusan invois pembelian dan pembayaran pembekal.
 
 ## Pengurusan Inventori
 
-- Menyediakan alat untuk mengurus dan menjejaki tahap inventori, termasuk pemindahan stok dan penyesuaian.
-- Menetapkan pemberitahuan automatik untuk tahap stok yang rendah dan menghasilkan pesanan pembelian apabila perlu mengisi semula stok.
-- Menawarkan keupayaan pengimbasan kod bar untuk pengurusan inventori yang cekap.
-- Membolehkan pengguna mengategorikan produk, menentukan atribut, dan menetapkan maklumat harga.
+- Alat untuk menguruskan dan menjejaki tahap inventori.
+- Pemberitahuan automatik untuk tahap inventori rendah.
+- Fungsi pengimbasan kod bar.
+- Pengguna boleh mengkategorikan produk dan menetapkan harga.
 
 ## Pengurusan Kewangan
 
-- Mengimplementasikan sistem buku besar untuk menjejaki transaksi kewangan, termasuk perbelanjaan dan pendapatan.
-- Menguruskan piutang dan hutang, termasuk invois dan penjejakan pembayaran.
-- Menghasilkan laporan kewangan, termasuk neraca dan penyata pendapatan.
-- Mengintegrasikan dengan perisian perakaunan popular untuk pengurusan kewangan yang lancar.
+- Sistem lejar am untuk menjejaki transaksi.
+- Pengurusan akaun belum terima dan belum bayar.
+- Penjanaan laporan kewangan.
+- Keupayaan untuk berintegrasi dengan perisian perakaunan.
 
 ## Pengurusan Projek
 
-- Menyediakan kemampuan pengurusan projek, membolehkan pengguna mencipta dan menjejaki projek.
-- Menetapkan tugas kepada ahli pasukan, menetapkan tarikh akhir, dan memantau kemajuan.
-- Mengagihkan sumber dan menjejaki perbelanjaan projek.
-- Menawarkan ciri-ciri kolaborasi seperti perkongsian dokumen dan komunikasi secara masa nyata.
+- Fungsi pengurusan projek.
+- Penetapan tugas kepada ahli pasukan.
+- Peruntukan sumber dan penjejakan kos.
+- Fungsi kerjasama.
 
-## Pelaporan dan Analisis
+## Pelaporan dan Analitik
 
-- Menghasilkan laporan dan analisis menyeluruh mengenai pelbagai aspek perniagaan.
-- Menyediakan papan pemuka yang boleh disesuaikan untuk memantau petunjuk prestasi utama (KPI).
-- Membolehkan pengguna menentukan laporan khusus berdasarkan keperluan tertentu.
-- Mengimplementasikan teknik visualisasi data untuk menyajikan maklumat secara menarik secara visual.
+- Penjanaan laporan komprehensif tentang pelbagai aspek perniagaan.
+- Papan pemuka boleh suai.
+- Pengguna boleh menentukan laporan tersuai.
+- Teknik visualisasi data.
 
 ## Integrasi dan Penyesuaian
 
-- Membolehkan integrasi dengan aplikasi pihak ketiga atau API popular, seperti alat pemasaran melalui emel atau platform CRM.
-- Membolehkan penyesuaian fungsi dan penampilan aplikasi berdasarkan keperluan perniagaan tertentu.
-- Menyediakan API atau webhooks untuk memudahkan pertukaran data antara aplikasi ERP & CRM dan sistem lain.
+- Keupayaan untuk berintegrasi dengan aplikasi pihak ketiga.
+- Penyesuaian fungsi mengikut keperluan.
+- API untuk pertukaran data.
 
-## Antara Muka Mesra Pengguna
+## Antara Muka Pengguna
 
-- Reka bentuk antara muka yang intuitif, responsif, dan mesra pengguna menggunakan React.js dan Ant Design.
-- Mengimplementasikan menu navigasi yang mudah digunakan, fungsi carian, dan penapis.
-- Memastikan antara muka yang konsisten dan menarik secara visual di pelbagai peranti dan saiz skrin.
+- Antara muka intuitif dan responsif dengan React.js dan Ant Design.
+- Menu navigasi dan penapis mudah digunakan.
+- Antara muka yang konsisten merentasi pelbagai peranti.

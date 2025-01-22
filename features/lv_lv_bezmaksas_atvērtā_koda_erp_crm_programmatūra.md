@@ -1,76 +1,74 @@
-# finrarmag Atvērtā koda ERP un CRM programmatūra
+# finrarmag Bezmaksas Atvērtā Koda ERP & CRM Programmatūra
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Mājaslapa: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Programmatūras tehnoloģiju komplekts
+## Programmatūras Steks
 
-finrarmag bezmaksas atvērtā koda erp & crm lietotne, balstīta uz "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag ir bezmaksas atvērtā koda ERP & CRM lietotne, kas balstīta uz "mern-stack" tehnoloģijām: Node.js, React.js, Redux, Express.js, MongoDB un Ant Design (AntD).
 
-## Lietotāju pārvaldība
+## Lietotāju Pārvaldība
 
-- Ļauj administratoriem izveidot, labot un dzēst lietotāja kontus.
-- Ievieš lomu pamatotas piekļuves vadības funkcionalitāti, lai pārvaldītu lietotāju atļaujas.
-- Nodrošina autentifikācijas un autorizācijas mehānismus, lai nodrošinātu drošu piekļuvi.
+- Administratori var izveidot, rediģēt un dzēst lietotāju kontus.
+- Lomu balstīta piekļuves kontrole atļauju pārvaldībai.
+- Droša piekļuve caur autentifikāciju un autorizāciju.
 
-## Klientu attiecību pārvaldība (CRM)
+## Klientu Attiecību Pārvaldība (CRM)
 
-- Ļauj lietotājiem izveidot un pārvaldīt kontaktu ierakstus potenciāliem pārdošanas iespējām un klientiem.
-- Ievieš potenciālo pārdošanas iespēju ģenerēšanas un kvalifikācijas funkcionalitātes, lai sekotu līdzi potenciālajām pārdošanas iespējām.
-- Nodrošina rīkus klientu komunikācijas vēstures pārvaldībai, ieskaitot e-pastus, zvanus un tikšanās.
-- Ļauj lietotājiem ieplānot tikšanās un nosūtīt paziņojumus vai atgādinājumus klientiem.
+- Lietotāji var izveidot un pārvaldīt potenciālo un esošo klientu kontaktinformāciju.
+- Potenciālo klientu ģenerēšana un kvalifikācija pārdošanas iespēju izsekošanai.
+- Rīki klientu komunikācijas vēstures pārvaldībai.
+- Lietotāji var plānot tikšanās un sūtīt paziņojumus klientiem.
 
-## Pārdošanas pārvaldība
+## Pārdošanas Pārvaldība
 
-- Ļauj lietotājiem izveidot un pārvaldīt pārdošanas pasūtījumus, tos saistot ar konkrētiem klientiem.
-- Ievieš krājumu izsekošanu, lai pārbaudītu produktu pieejamību un atjauninātu krājuma līmeņus pēc katras pārdošanas.
-- Ģenerē rēķinus un apstrādā maksājumu integrāciju ar populārām maksājumu vārtām.
-- Nodrošina vadības panelus un pārskatus, lai uzraudzītu pārdošanas veiktspēju un analizētu tendences.
+- Lietotāji var izveidot un pārvaldīt pārdošanas pasūtījumus.
+- Krājumu pārvaldība produktu pieejamības pārbaudei.
+- Rēķinu izveide un maksājumu pārvaldība.
+- Informācijas panelis pārdošanas snieguma uzraudzībai.
 
-## Iepirkumu pārvaldība
+## Iepirkumu Pārvaldība
 
-- Ļauj lietotājiem izveidot un pārvaldīt iepirkumu pasūtījumus, norādot daudzumu un vēlamās preces.
-- Seko piegādātāja informācijai un pārvalda piegādātāju attiecības.
-- Saņem preces un atjaunina krājumu līmenis atbilstoši.
-- Apstrādā iepirkuma rēķinus un maksājumus piegādātājiem.
+- Lietotāji var izveidot un pārvaldīt iepirkuma pasūtījumus.
+- Piegādātāju informācijas izsekošana un attiecību pārvaldība.
+- Produktu saņemšana un krājumu atjaunināšana.
+- Iepirkuma rēķinu un piegādātāju maksājumu pārvaldība.
 
-## Krājumu pārvaldība
+## Krājumu Pārvaldība
 
-- Nodrošina rīkus, lai pārvaldītu un izsekotu krājumu līmeņus, ieskaitot krājuma pārvedumus un pielāgojumus.
-- Iestatiet automātiskas paziņojumus par zemu krājumu līmeni un ģenerējiet iepirkumu pasūtījumus, ja nepieciešams atjaunot krājumus.
-- Piedāvā skenēšanas iespējas efektīvai krājumu pārvaldībai.
-- Ļauj lietotājiem kategorizēt produktus, definēt atribūtus un iestatīt cenu informāciju.
+- Rīki krājumu līmeņu pārvaldībai un izsekošanai.
+- Automātiski paziņojumi par zemiem krājumu līmeņiem.
+- Svītrkodu skenēšanas funkcionalitāte.
+- Lietotāji var kategorizēt produktus un noteikt cenas.
 
-## Finanšu pārvaldība
+## Finanšu Pārvaldība
 
-- Ievieš galveno grāmatvedības sistēmu, lai izsekotu finanšu darījumus, ieskaitot izdevumus un ienākumus.
-- Pārvalda debitoru un kreditoru kontus, ieskaitot rēķinu izrakstīšanu un maksājumu izsekošanu.
-- Ģenerē finanšu pārskatus, ieskaitot bilances un ieņēmumu paziņojumus.
-- Integrējas ar populāro grāmatvedības programmatūru bez šķēršļiem finanšu pārvaldībai.
+- Virsgrāmatas sistēma darījumu izsekošanai.
+- Debitoru un kreditoru parādu pārvaldība.
+- Finanšu pārskatu ģenerēšana.
+- Iespēja integrēties ar grāmatvedības programmatūru.
 
-## Projektu pārvaldība
+## Projektu Pārvaldība
 
-- Nodrošina projektu pārvaldības iespējas, ļaujot lietotājiem izveidot un sekot līdzi projektiem.
-- Piešķir uzdevumus komandas locekļiem, iestata termiņus un uzrauga progresu.
-- Piešķir resursus un seko projektu izdevumiem.
-- Piedāvā sadarbības funkcijas, piemēram, dokumentu kopīgošanu un reāllaika komunikāciju.
+- Projektu pārvaldības funkcijas.
+- Uzdevumu piešķiršana komandas locekļiem.
+- Resursu piešķiršana un izmaksu izsekošana.
+- Sadarbības funkcijas.
 
-## Pārskatu un analītikas
+## Atskaites un Analītika
 
-- Ģenerē visaptverošus pārskatus un analītiku par dažādiem uzņēmuma aspektiem.
-- Nodrošina pielāgojamus vadības paneļus, lai uzraudzītu galvenos veiktspējas rādītājus (KPI).
-- Ļauj lietotājiem definēt pielāgotus pārskatus, pamatojoties uz konkrētiem prasībām.
-- Ievieš datu vizualizācijas tehnikas, lai vizuāli pievilcīgi attēlotu informāciju.
+- Visaptverošu atskaišu izveide par dažādiem biznesa aspektiem.
+- Pielāgojami informācijas paneļi.
+- Lietotāji var definēt pielāgotas atskaites.
+- Datu vizualizācijas tehnikas.
 
-## Integrācija un pielāgošana
+## Integrācija un Pielāgošana
 
-- Nodrošina integrāciju ar populārām trešās puses lietojumprogrammām vai API, piemēram, e-pasta mārketinga rīkiem vai CRM platformām.
-- Ļauj pielāgot lietotnes funkcionalitāti un izskatu, pamatojoties uz konkrētiem uzņēmuma vajadzībām.
-- Nodrošina API vai tīmekļa āķus, lai atvieglotu datu apmaiņu starp ERP un CRM lietotni un citām sistēmām.
+- Iespēja integrēties ar trešo pušu lietojumprogrammām.
+- Funkciju pielāgošana atbilstoši vajadzībām.
+- API datu apmaiņai.
 
-## Lietotājam draudzīga saskarne
+## Lietotāja Saskarne
 
-- Izstrādā intuitīvu, reaģējošu un lietotājam draudzīgu saskarni, izmantojot React.js un Ant Design.
-- Ievieš viegli lietojamus navigācijas izvēlnes, meklēšanas funkcionalitāti un filtrus.
-- Nodrošina vienotu un vizuāli pievilcīgu lietotāja saskarni dažādos ierīcēs un ekrāna izmēros.
+- Intuitīva un atsaucīga saskarne ar React.js un Ant Design.
+- Viegli lietojamas navigācijas izvēlnes un filtri.
+- Konsekventa saskarne dažādās ierīcēs.

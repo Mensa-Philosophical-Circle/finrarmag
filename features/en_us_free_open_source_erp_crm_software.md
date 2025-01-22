@@ -1,12 +1,10 @@
 # finrarmag Open-Source ERP & CRM Software
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Website: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Sofware Stack
+## Software Stack
 
-finrarmag is a free open-source ERP & CRM app based on the "mern-stack". It utilizes the following technologies: Node.js, React.js, Redux, Express.js, MongoDB, and AntDesign (AntD).
+finrarmag is a free open-source ERP & CRM app based on the "mern-stack". It utilizes the following technologies: Node.js, React.js, Redux, Express.js, MongoDB, and Ant Design (AntD).
 
 ## User Management
 

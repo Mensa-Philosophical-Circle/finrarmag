@@ -1,76 +1,74 @@
-# finrarmag Åpen kildekode ERP og CRM-programvare
+# finrarmag Gratis Åpen Kildekode ERP & CRM Programvare
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Nettsted: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
 ## Programvarestabel
 
-finrarmag Gratis åpen kildekode ERP og CRM-app, basert på "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag er en gratis åpen kildekode ERP & CRM applikasjon basert på "mern-stack" teknologi: Node.js, React.js, Redux, Express.js, MongoDB og Ant Design (AntD).
 
-## Brukerstyring
+## Brukeradministrasjon
 
-- Tillat administratorer å opprette, redigere og slette brukerkontoer.
-- Implementer rollebasert tilgangskontroll for å administrere brukerrettigheter.
-- Tilby autentiserings- og autorisasjonsmekanismer for å sikre sikker tilgang.
+- Administratorer kan opprette, redigere og slette brukerkontoer.
+- Rollebasert tilgangskontroll for rettighetsstyring.
+- Sikker tilgang gjennom autentisering og autorisasjon.
 
 ## Kunderelasjonshåndtering (CRM)
 
-- Gjør det mulig for brukere å opprette og administrere kontaktregistre for potensielle kunder og kunder.
-- Implementer funksjonalitet for generering og kvalifisering av potensielle salgsmuligheter.
-- Tilby verktøy for å administrere kommunikasjonshistorikk med kunder, inkludert e-poster, samtaler og møter.
-- Tillat brukere å planlegge avtaler og sende varsler eller påminnelser til kunder.
+- Brukere kan opprette og administrere kontaktinformasjon for potensielle og eksisterende kunder.
+- Generering og kvalifisering av potensielle kunder for sporing av salgsmuligheter.
+- Verktøy for å administrere kundekommunikasjonshistorikk.
+- Brukere kan planlegge avtaler og sende varsler til kunder.
 
-## Salgsstyring
+## Salgsadministrasjon
 
-- Tillat brukere å opprette og administrere salgsordrer og knytte dem til spesifikke kunder.
-- Implementer lagerstyring for å sjekke produkttilgjengelighet og oppdatere beholdningsnivåer etter hver salg.
-- Generer fakturaer og håndter betalingsintegrasjon med populære betalingsportaler.
-- Tilby dashboards og rapporter for å overvåke salgsprestasjoner og analysere trender.
+- Brukere kan opprette og administrere salgsordrer.
+- Lagerstyring for å sjekke produkttilgjengelighet.
+- Fakturagenerering og betalingsadministrasjon.
+- Dashbord for å overvåke salgsytelse.
 
-## Innkjøpsstyring
+## Innkjøpsadministrasjon
 
-- Tillat brukere å opprette og administrere innkjøpsordrer, spesifisere mengde og ønskede produkter.
-- Spor leverandørinformasjon og administrer leverandørforhold.
-- Motta varer og oppdater beholdningsnivåer i henhold.
-- Håndter innkjøpsfakturaer og betalinger til leverandører.
+- Brukere kan opprette og administrere innkjøpsordrer.
+- Sporing av leverandørinformasjon og relasjonshåndtering.
+- Produktmottak og lageroppdatering.
+- Administrasjon av innkjøpsfakturaer og leverandørbetalinger.
 
 ## Lagerstyring
 
-- Tilby verktøy for å administrere og spore beholdningsnivåer, inkludert vareoverføringer og justeringer.
-- Sett opp automatiske varsler for lav beholdning og generer innkjøpsordrer når det er behov for påfylling.
-- Tilby strekkodeskanning for effektiv lagerstyring.
-- Gjør det mulig for brukere å kategorisere produkter, definere attributter og angi priser.
+- Verktøy for å administrere og spore lagernivåer.
+- Automatiske varsler for lave lagernivåer.
+- Strekkodeskanning-funksjonalitet.
+- Brukere kan kategorisere produkter og sette priser.
 
-## Økonomistyring
+## Økonomiforvaltning
 
-- Implementer et hovedboksystem for å spore økonomiske transaksjoner, inkludert utgifter og inntekter.
-- Administrer utestående fordringer og gjeld, inkludert fakturering og betalingssporing.
-- Generer økonomiske rapporter, inkludert balanse og resultatregnskap.
-- Integrer med populær regnskapsprogramvare for sømløs økonomistyring.
+- Hovedboksystem for sporing av transaksjoner.
+- Administrasjon av kundefordringer og leverandørgjeld.
+- Generering av økonomiske rapporter.
+- Mulighet for integrasjon med regnskapsprogramvare.
 
-## Prosjektstyring
+## Prosjektledelse
 
-- Tilby prosjektstyringsfunksjoner som lar brukere opprette og følge opp prosjekter.
-- Tildel oppgaver til teammedlemmer, sett frister og overvåk fremdrift.
-- Alloker ressurser og spore prosjektkostnader.
-- Tilby samarbeidsfunksjoner som dokumentdeling og sanntidskommunikasjon.
+- Prosjektledelsefunksjoner.
+- Tildeling av oppgaver til teammedlemmer.
+- Ressursallokering og kostnadssporing.
+- Samarbeidsfunksjoner.
 
-## Rapportering og analyse
+## Rapportering og Analyse
 
-- Generer omfattende rapporter og analyser om ulike aspekter av virksomheten.
-- Tilby tilpassbare dashboards for overvåking av nøkkelindikatorer for ytelse (KPIer).
-- Tillat brukere å definere egendefinerte rapporter basert på spesifikke krav.
-- Implementer datavisualiseringsteknikker for å presentere informasjon på en visuelt tiltalende måte.
+- Generering av omfattende rapporter om ulike forretningsaspekter.
+- Tilpassbare dashbord.
+- Brukere kan definere tilpassede rapporter.
+- Datavisualiseringsteknikker.
 
-## Integrering og tilpasning
+## Integrasjon og Tilpasning
 
-- Gjør det mulig med integrasjon med populære tredjepartsapplikasjoner eller API-er, som e-postmarkedsføringsverktøy eller CRM-plattformer.
-- Tillat tilpasning av appens funksjonalitet og utseende basert på spesifikke forretningsbehov.
-- Tilby en API eller webhooks for å lette datautveksling mellom ERP- og CRM-appen og andre systemer.
+- Mulighet for integrasjon med tredjepartsapplikasjoner.
+- Tilpasning av funksjoner etter behov.
+- API for datautveksling.
 
-## Brukervennlig grensesnitt
+## Brukergrensesnitt
 
-- Design et intuitivt, responsivt og brukervennlig grensesnitt ved hjelp av React.js og Ant Design.
-- Implementer enkelt navigasjonsmenyer, søkefunksjoner og filtre.
-- Sørg for en konsistent og visuelt tiltalende brukergrensesnitt på ulike enheter og skjermstørrelser.
+- Intuitivt og responsivt grensesnitt med React.js og Ant Design.
+- Brukervennlige navigasjonsmenyer og filtre.
+- Konsistent grensesnitt på tvers av enheter.

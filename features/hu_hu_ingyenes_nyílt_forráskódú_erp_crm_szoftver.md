@@ -1,76 +1,74 @@
-# finrarmag Nyílt forráskódú ERP & CRM szoftver
+# finrarmag Nyílt Forráskódú ERP & CRM Szoftver
 
-GitHub : [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo : [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Weboldal : [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Szoftver technológia
+## Szoftver Stack
 
-Az finrarmag ingyenes nyílt forráskódú erp & crm alkalmazás, amely a "mern-stack" alapján működik: Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+A finrarmag egy ingyenes nyílt forráskódú ERP & CRM alkalmazás, amely a "mern-stack"-en alapul. A következő technológiákat használja: Node.js, React.js, Redux, Express.js, MongoDB és Ant Design (AntD).
 
 ## Felhasználókezelés
 
-- Lehetővé teszi az adminisztrátorok számára a felhasználói fiókok létrehozását, szerkesztését és törlését.
-- Implementálja a szerep alapú hozzáférési vezérlést a felhasználói engedélyek kezeléséhez.
-- Biztosít hitelesítési és jogosultságkezelési mechanizmusokat a biztonságos hozzáférés biztosításához.
+- Az adminisztrátorok létrehozhatnak, szerkeszthetnek és törölhetnek felhasználói fiókokat.
+- Szerepkör alapú hozzáférés-vezérlés a jogosultságok kezeléséhez.
+- Hitelesítési és engedélyezési mechanizmusok biztosítják a biztonságos hozzáférést.
 
 ## Ügyfélkapcsolat-kezelés (CRM)
 
-- Lehetővé teszi a felhasználók számára a kapcsolatfelvételi adatok létrehozását és kezelését a potenciális vevők és ügyfelek számára.
-- Implementálja a vezetékképzési és minősítési funkciókat a potenciális értékesítési lehetőségek nyomon követéséhez.
-- Biztosít eszközöket az ügyfél kommunikációs előzményeinek kezeléséhez, beleértve az e-maileket, hívásokat és találkozókat.
-- Lehetővé teszi a felhasználóknak az időpontok ütemezését és értesítéseket vagy emlékeztetőket küld az ügyfeleknek.
+- A felhasználók létrehozhatnak és kezelhetnek kapcsolati adatokat leadekhez és ügyfelekhez.
+- Lead generálási és minősítési funkciók az értékesítési lehetőségek nyomon követéséhez.
+- Eszközök az ügyfelekkel folytatott kommunikáció történetének kezeléséhez.
+- A felhasználók találkozókat ütemezhetnek és értesítéseket küldhetnek az ügyfeleknek.
 
-## Értékesítési kezelés
+## Értékesítéskezelés
 
-- Lehetővé teszi a felhasználók számára az értékesítési rendelések létrehozását és kezelését, azokat az adott ügyfelekkel kapcsolatosan.
-- Implementálja az áruk nyomon követését a termék elérhetőségének ellenőrzéséhez és a készletszintek frissítéséhez minden értékesítés után.
-- Számlákat generál és kezeli a fizetési integrációt a népszerű fizetési átjárókkal.
-- Biztosít irányítópultokat és jelentéseket az értékesítési teljesítmény monitorozásához és a trendek elemzéséhez.
+- A felhasználók létrehozhatnak és kezelhetnek értékesítési rendeléseket.
+- Készletellenőrzés a termékek elérhetőségének ellenőrzéséhez.
+- Számlák generálása és fizetési integráció kezelése.
+- Irányítópultok az értékesítési teljesítmény figyeléséhez.
 
-## Beszerzési kezelés
+## Beszerzéskezelés
 
-- Lehetővé teszi a felhasználók számára a beszerzési rendelések létrehozását és kezelését, a mennyiség és a kívánt termékek meghatározásával.
-- Követi a beszállítói információkat és kezeli a beszállítói kapcsolatokat.
-- Fogadja a termékeket és frissíti a készletszinteket ennek megfelelően.
-- Kezeli a beszerzési számlákat és a beszállítókhoz történő fizetéseket.
+- A felhasználók létrehozhatnak és kezelhetnek beszerzési rendeléseket.
+- Beszállítói információk nyomon követése és kapcsolatok kezelése.
+- Árubefogadás és készletfrissítés végrehajtása.
+- Beszerzési számlák és beszállítói kifizetések kezelése.
 
 ## Készletkezelés
 
-- Biztosít eszközöket a készletszintek kezeléséhez és nyomon követéséhez, beleértve a készletátadásokat és a beállításokat.
-- Beállít automatikus értesítéseket az alacsony készletszintekről és generáljon beszerzési rendeléseket, amikor a készlet újratöltésére van szükség.
-- Kínál vonalkódolvasási képességeket hatékony készletkezeléshez.
-- Lehetővé teszi a felhasználóknak a termékek kategorizálását, attribútumok meghatározását és árazási információk beállítását.
+- Eszközök a készletszintek kezeléséhez és nyomon követéséhez.
+- Automatikus értesítések alacsony készletszint esetén.
+- Vonalkód-szkennelési funkciók állnak rendelkezésre.
+- A felhasználók kategorizálhatják a termékeket és árakat állíthatnak be.
 
 ## Pénzügyi kezelés
 
-- Implementáljon egy általános könyvelő rendszert a pénzügyi tranzakciók nyomon követéséhez, beleértve a költségeket és a bevételeket.
-- Kezelje az eladói és vevői számlákat, beleértve a számlázást és a fizetés nyomon követését.
-- Generáljon pénzügyi jelentéseket, beleértve az egyenlegkimutatást és az eredménykimutatást.
-- Integráljon népszerű könyvelő szoftverekkel a zökkenőmentes pénzügyi kezelés érdekében.
+- Főkönyvi rendszer a tranzakciók nyomon követéséhez.
+- Követelések és kötelezettségek kezelése.
+- Pénzügyi jelentések generálása.
+- Könyvelőszoftverrel való integráció lehetséges.
 
-## Projektkezelés
+## Projektmenedzsment
 
-- Biztosítson projektmenedzsment képességeket, amelyek lehetővé teszik a felhasználók számára a projektek létrehozását és nyomon követését.
-- Rendeljen feladatokat a csapattagoknak, állítson határidőket és kövesse nyomon a haladást.
-- Allokáljon erőforrásokat és kövesse a projekt kiadásait.
-- Kínáljon együttműködési funkciókat, például dokumentummegosztást és valós idejű kommunikációt.
+- Projektmenedzsment funkciók állnak rendelkezésre.
+- Feladatok hozzárendelhetők csapattagokhoz.
+- Erőforrások allokálhatók és költségek követhetők.
+- Együttműködési funkciók állnak rendelkezésre.
 
-## Jelentések és analitika
+## Jelentéskészítés és elemzés
 
-- Generáljon átfogó jelentéseket és elemzéseket a vállalkozás különböző aspektusairól.
-- Biztosítson testreszabható irányítópultokat a kulcsfontosságú teljesítménymutatók (KPI-k) monitorozásához.
-- Lehetővé teszi a felhasználók számára a specifikus követelmények alapján meghatározott egyedi jelentések meghatározását.
-- Implementálja az adatvizualizációs technikákat az információk vonzó módon történő bemutatásához.
+- Átfogó jelentések készülnek a vállalkozás különböző aspektusairól.
+- Testreszabható irányítópultok állnak rendelkezésre.
+- A felhasználók egyéni jelentéseket definiálhatnak.
+- Adatvizualizációs technikák kerülnek implementálásra.
 
 ## Integráció és testreszabás
 
-- Lehetővé teszi a népszerű harmadik fél alkalmazások vagy API-k, például az e-mail marketing eszközök vagy a CRM platformok integrálását.
-- Lehetővé teszi az alkalmazás funkcionalitásának és megjelenésének testreszabását a konkrét üzleti igények alapján.
-- Biztosítson API-t vagy webhorgokat az adatcserének megkönnyítéséhez az ERP & CRM alkalmazás és más rendszerek között.
+- Harmadik féltől származó alkalmazásokkal való integráció lehetséges.
+- A funkcionalitás igény szerint testreszabható.
+- API áll rendelkezésre az adatcseréhez.
 
-## Felhasználóbarát felület
+## Felhasználói felület
 
-- Készítsen intuitív, reszponzív és felhasználóbarát felületet React.js és Ant Design segítségével.
-- Implementáljon könnyen használható navigációs menük, keresési funkciókat és szűrőket.
-- Biztosítson következetes és vizuálisan vonzó felhasználói felületet különböző eszközökön és képernyőméreteken.
+- Intuitív és reszponzív felület React.js és Ant Design használatával.
+- Felhasználóbarát navigációs menük és szűrők.
+- Konzisztens felület különböző eszközökön.

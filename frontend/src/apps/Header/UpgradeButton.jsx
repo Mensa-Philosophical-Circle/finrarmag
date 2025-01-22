@@ -32,5 +32,5 @@ export default function UpgradeButton() {
 }
 
 console.log(
-  '🚀 Welcome to finrarmag ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@finrarmagapp.com for more information.'
+  '🚀 Welcome to finrarmag ERP CRM! Did you know that we also offer commercial customization services? Contact us at support@finrarmagapp.com for more information.'
 );

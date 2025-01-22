@@ -1,76 +1,74 @@
-# finrarmag Avoin lähdekoodin ERP- ja CRM-ohjelmisto
+# finrarmag Avoimen Lähdekoodin ERP & CRM Ohjelmisto
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Verkkosivusto: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
 ## Ohjelmistopino
 
-finrarmag on ilmainen avoimen lähdekoodin ERP- ja CRM-sovellus, joka perustuu "mern-stackiin": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag on ilmainen avoimen lähdekoodin ERP & CRM sovellus, joka perustuu "mern-stack" teknologiaan. Se käyttää seuraavia teknologioita: Node.js, React.js, Redux, Express.js, MongoDB ja Ant Design (AntD).
 
 ## Käyttäjähallinta
 
-- Salli ylläpitäjien luoda, muokata ja poistaa käyttäjätilit.
-- Toteuta roolipohjainen pääsynhallinta käyttäjäoikeuksien hallintaan.
-- Tarjoa todennus- ja valtuutusmekanismit varmistaaksesi turvallisen pääsyn.
+- Järjestelmänvalvojat voivat luoda, muokata ja poistaa käyttäjätilejä.
+- Roolipohjainen pääsynhallinta oikeuksien hallintaan.
+- Turvallinen pääsy todennuksen ja valtuutuksen kautta.
 
-## Asiakassuhteen hallinta (CRM)
+## Asiakkuudenhallinta (CRM)
 
-- Mahdollista käyttäjien luoda ja hallita yhteystietoja liideille, potentiaalisille asiakkaille ja asiakkaille.
-- Toteuta liidien luonti- ja kelpoisuustoiminnot potentiaalisten myyntimahdollisuuksien seuraamiseksi.
-- Tarjoa työkalut asiakaskommunikaation historian hallintaan, mukaan lukien sähköpostit, puhelut ja kokoukset.
-- Salli käyttäjien aikatauluttaa tapaamisia ja lähettää ilmoituksia tai muistutuksia asiakkaille.
+- Käyttäjät voivat luoda ja hallita liidien ja asiakkaiden yhteystietoja.
+- Liidien luonti ja kvalifiointi myyntimahdollisuuksien seurantaan.
+- Työkalut asiakasviestinnän historian hallintaan.
+- Käyttäjät voivat aikatauluttaa tapaamisia ja lähettää ilmoituksia asiakkaille.
 
-## Myynnin hallinta
+## Myyntihallinta
 
-- Salli käyttäjien luoda ja hallita myyntitilauksia, liittämällä ne tiettyihin asiakkaisiin.
-- Toteuta varaston seuranta tarkistaaksesi tuotteiden saatavuuden ja päivitä varastotasot jokaisen myynnin jälkeen.
-- Luo laskuja ja käsittele maksujen integrointi suosittujen maksuyhdyskäytävien kanssa.
-- Tarjoa kojetauluja ja raportteja myyntisuorituksen seuraamiseksi ja trendien analysoimiseksi.
+- Käyttäjät voivat luoda ja hallita myyntitilauksia.
+- Varastonhallinta tuotteiden saatavuuden tarkistamiseen.
+- Laskujen luonti ja maksujenhallinta.
+- Kojelauta myynnin suorituskyvyn seurantaan.
 
-## Hankinnan hallinta
+## Ostohallinta
 
-- Salli käyttäjien luoda ja hallita ostotilauksia, määrittämällä määrä ja halutut tuotteet.
-- Seuraa toimittajatietoja ja hallitse toimittajasuhteita.
-- Vastaanota tavaroita ja päivitä varastotasot sen mukaisesti.
-- Käsittele ostolaskuja ja maksuja toimittajille.
+- Käyttäjät voivat luoda ja hallita ostotilauksia.
+- Toimittajatietojen seuranta ja suhteiden hallinta.
+- Tuotteiden vastaanotto ja varaston päivitys.
+- Ostolaskujen ja toimittajamaksujen hallinta.
 
 ## Varastonhallinta
 
-- Tarjoa työkaluja varastonhallinnan ja varastotason seurantaan, mukaan lukien varaston siirrot ja säädöt.
-- Aseta automaattiset ilmoitukset matalista varastotasoista ja luo ostotilauksia, kun täydennystä tarvitaan.
-- Tarjoa viivakoodinlukutaito tehokasta varastonhallintaa varten.
-- Mahdollista käyttäjien luokitella tuotteet, määritellä ominaisuuksia ja asettaa hinnoittelutiedot.
+- Työkalut varastotasojen hallintaan ja seurantaan.
+- Automaattiset ilmoitukset alhaisista varastotasoista.
+- Viivakoodien skannaus toiminnallisuus.
+- Käyttäjät voivat luokitella tuotteita ja asettaa hintoja.
 
-## Taloushallinta
+## Taloushallinto
 
-- Toteuta pääkirjan järjestelmä taloudellisten tapahtumien seurantaan, mukaan lukien kulut ja tulot.
-- Hallitse saamisia ja velkoja, mukaan lukien laskutus ja maksuseuranta.
-- Luo taloudellisia raportteja, mukaan lukien tase- ja tuloslaskelmat.
-- Integroi suosittujen kirjanpito-ohjelmistojen kanssa saumaton taloushallinta.
+- Pääkirjajärjestelmä tapahtumien seurantaan.
+- Myynti- ja ostoreskontran hallinta.
+- Talousraporttien luonti.
+- Mahdollisuus integroida kirjanpito-ohjelmistoon.
 
 ## Projektinhallinta
 
-- Tarjoa projektinhallintatoiminnot, joiden avulla käyttäjät voivat luoda ja seurata projekteja.
-- Aseta tehtäviä tiimin jäsenille, aseta määräajat ja seuraa edistymistä.
-- Allokoi resursseja ja seuraa projektikuluja.
-- Tarjoa yhteistyöominaisuuksia, kuten asiakirjojen jakaminen ja reaaliaikainen viestintä.
+- Projektinhallintatoiminnot.
+- Tehtävien jako tiimin jäsenille.
+- Resurssien jako ja kustannusten seuranta.
+- Yhteistyötoiminnot.
 
-## Raportointi ja analytiikka
+## Raportointi ja Analytiikka
 
-- Luo kattavia raportteja ja analytiikkaa yrityksen eri osa-alueista.
-- Tarjoa muokattavia kojetauluja keskeisten suorituskykymittareiden (KPI) seurantaan.
-- Salli käyttäjien määritellä mukautettuja raportteja tiettyjen vaatimusten perusteella.
-- Toteuta tietojen visualisointitekniikoita esittääksesi tiedot visuaalisesti houkuttelevalla tavalla.
+- Kattavien raporttien luonti liiketoiminnan eri osa-alueista.
+- Mukautettavat kojelaudat.
+- Käyttäjät voivat määritellä mukautettuja raportteja.
+- Tiedon visualisointitekniikat käytössä.
 
-## Integraatio ja mukauttaminen
+## Integraatio ja Mukautus
 
-- Mahdollista integraatio suosittujen kolmannen osapuolen sovellusten tai rajapintojen kanssa, kuten sähköpostimarkkinointityökalujen tai CRM-alustojen kanssa.
-- Salli sovelluksen toiminnallisuuden ja ulkoasun mukauttaminen tiettyjen liiketoimintatarpeiden perusteella.
-- Tarjoa API tai webhooks helpottamaan tietojen vaihtoa ERP- ja CRM-sovelluksen ja muiden järjestelmien välillä.
+- Mahdollisuus integroida kolmannen osapuolen sovelluksiin.
+- Toimintojen mukautus tarpeiden mukaan.
+- API tiedonvaihtoa varten.
 
-## Käyttäjäystävällinen käyttöliittymä
+## Käyttöliittymä
 
-- Suunnittele intuitiivinen, responsiivinen ja käyttäjäystävällinen käyttöliittymä käyttäen React.js:ää ja Ant Designia.
-- Toteuta helppokäyttöiset navigointivalikot, hakuominaisuudet ja suodattimet.
-- Varmista johdonmukainen ja visuaalisesti houkutteleva käyttöliittymä eri laitteissa ja näyttöjen koossa.
+- Intuitiivinen ja responsiivinen käyttöliittymä React.js ja Ant Design -teknologioilla.
+- Helppokäyttöiset navigointivalikot ja suodattimet.
+- Yhdenmukainen käyttöliittymä eri laitteilla.

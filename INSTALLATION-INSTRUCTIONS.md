@@ -3,7 +3,7 @@
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/finrarmag/finrarmag.git
+git clone https://github.com/Mensa-Philosophical-Circle/finrarmag.git
 ```
 
 ```bash

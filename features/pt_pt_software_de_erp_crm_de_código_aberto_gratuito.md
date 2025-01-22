@@ -1,76 +1,74 @@
-# finrarmag Software ERP e CRM de código aberto
+# Software ERP & CRM de Código Aberto finrarmag
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Website: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Pilha de Software
+## Stack de Software
 
-finrarmag é um aplicativo ERP e CRM de código aberto gratuito, baseado em "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag é uma aplicação ERP & CRM de código aberto gratuita baseada na "mern-stack". Utiliza as seguintes tecnologias: Node.js, React.js, Redux, Express.js, MongoDB e Ant Design (AntD).
 
-## Gestão de Usuários
+## Gestão de Utilizadores
 
-- Permitir aos administradores criar, editar e excluir contas de usuário.
-- Implementar controle de acesso baseado em funções para gerenciar permissões de usuário.
-- Fornecer mecanismos de autenticação e autorização para garantir acesso seguro.
+- Os administradores podem criar, editar e eliminar contas de utilizador.
+- Controlo de acesso baseado em funções para gerir permissões.
+- Mecanismos de autenticação e autorização garantem acesso seguro.
 
 ## Gestão de Relacionamento com o Cliente (CRM)
 
-- Permitir que os usuários criem e gerenciem registros de contatos para leads, prospects e clientes.
-- Implementar funcionalidades de geração e qualificação de leads para rastrear oportunidades de vendas potenciais.
-- Fornecer ferramentas para gerenciar o histórico de comunicação com o cliente, incluindo e-mails, ligações e reuniões.
-- Permitir que os usuários agendem compromissos e enviem notificações ou lembretes aos clientes.
+- Os utilizadores podem criar e gerir registos de contacto para leads e clientes.
+- Funcionalidades de geração e qualificação de leads para acompanhar oportunidades.
+- Ferramentas para gerir o histórico de comunicação com clientes.
+- Os utilizadores podem agendar compromissos e enviar notificações aos clientes.
 
 ## Gestão de Vendas
 
-- Permitir que os usuários criem e gerenciem pedidos de venda, associando-os a clientes específicos.
-- Implementar rastreamento de estoque para verificar a disponibilidade do produto e atualizar os níveis de estoque após cada venda.
-- Gerar faturas e lidar com integração de pagamento com gateways de pagamento populares.
-- Fornecer painéis e relatórios para monitorar o desempenho de vendas e analisar tendências.
+- Os utilizadores podem criar e gerir ordens de venda.
+- Controlo de inventário para verificar disponibilidade de produtos.
+- Faturas são geradas e integração de pagamentos é gerida.
+- Painéis para monitorizar o desempenho das vendas.
 
 ## Gestão de Compras
 
-- Permitir que os usuários criem e gerenciem pedidos de compra, especificando a quantidade e os produtos desejados.
-- Rastrear informações do fornecedor e gerenciar relacionamentos com fornecedores.
-- Receber mercadorias e atualizar os níveis de estoque de acordo.
-- Lidar com faturas de compra e pagamentos a fornecedores.
+- Os utilizadores podem criar e gerir ordens de compra.
+- Informações de fornecedores são monitorizadas e relações são geridas.
+- Receção de mercadorias e atualização de inventário são realizadas.
+- Faturas de compra e pagamentos a fornecedores são geridos.
 
 ## Gestão de Inventário
 
-- Fornecer ferramentas para gerenciar e rastrear os níveis de estoque, incluindo transferências e ajustes de estoque.
-- Configurar notificações automáticas para níveis baixos de estoque e gerar pedidos de compra quando for necessário repor o estoque.
-- Oferecer recursos de leitura de código de barras para um gerenciamento eficiente de estoque.
-- Permitir que os usuários categorizem produtos, definam atributos e informações de preços.
+- Ferramentas para gerir e acompanhar níveis de inventário.
+- Notificações automáticas para níveis baixos de stock.
+- Funcionalidades de leitura de códigos de barras.
+- Os utilizadores podem categorizar produtos e definir preços.
 
 ## Gestão Financeira
 
-- Implementar um sistema de contabilidade geral para rastrear transações financeiras, incluindo despesas e receitas.
-- Gerenciar contas a receber e contas a pagar, incluindo faturamento e rastreamento de pagamentos.
-- Gerar relatórios financeiros, incluindo balanços e demonstrações de resultados.
-- Integrar com software de contabilidade popular para uma gestão financeira perfeita.
+- Sistema de contabilidade geral para acompanhar transações.
+- Contas a receber e a pagar são geridas.
+- Relatórios financeiros são gerados.
+- Integração com software de contabilidade é possível.
 
 ## Gestão de Projetos
 
-- Fornecer recursos de gestão de projetos, permitindo que os usuários criem e acompanhem projetos.
-- Atribuir tarefas aos membros da equipe, definir prazos e monitorar o progresso.
-- Alocar recursos e acompanhar despesas do projeto.
-- Oferecer recursos de colaboração, como compartilhamento de documentos e comunicação em tempo real.
+- Funcionalidades de gestão de projetos disponíveis.
+- Tarefas podem ser atribuídas a membros da equipa.
+- Recursos podem ser alocados e despesas monitorizadas.
+- Funcionalidades de colaboração são oferecidas.
 
 ## Relatórios e Análises
 
-- Gerar relatórios abrangentes e análises sobre diversos aspectos do negócio.
-- Fornecer painéis personalizáveis para monitorar indicadores-chave de desempenho (KPIs).
-- Permitir que os usuários definam relatórios personalizados com base em requisitos específicos.
-- Implementar técnicas de visualização de dados para apresentar informações de maneira visualmente atraente.
+- Relatórios abrangentes são gerados sobre vários aspectos do negócio.
+- Painéis personalizáveis são disponibilizados.
+- Os utilizadores podem definir relatórios personalizados.
+- Técnicas de visualização de dados são implementadas.
 
 ## Integração e Personalização
 
-- Permitir integração com aplicativos de terceiros populares ou APIs, como ferramentas de marketing por e-mail ou plataformas de CRM.
-- Permitir personalização da funcionalidade e aparência do aplicativo com base nas necessidades específicas do negócio.
-- Fornecer uma API ou webhooks para facilitar a troca de dados entre o aplicativo ERP e CRM e outros sistemas.
+- Integração com aplicações de terceiros é possível.
+- Funcionalidades podem ser personalizadas conforme necessário.
+- Uma API é fornecida para troca de dados.
 
-## Interface Amigável
+## Interface do Utilizador
 
-- Projetar uma interface intuitiva, responsiva e amigável usando React.js e Ant Design.
-- Implementar menus de navegação fáceis de usar, funcionalidades de pesquisa e filtros.
-- Garantir uma interface consistente e visualmente atraente em diferentes dispositivos e tamanhos de tela.
+- Interface intuitiva e responsiva com React.js e Ant Design.
+- Menus de navegação e filtros fáceis de usar.
+- Interface consistente em diferentes dispositivos.

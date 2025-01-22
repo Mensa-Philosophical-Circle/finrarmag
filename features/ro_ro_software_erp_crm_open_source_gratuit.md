@@ -1,76 +1,74 @@
-# finrarmag Software ERP și CRM Open-Source
+# Software finrarmag ERP & CRM Open Source
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Website: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Stivă de software
+## Stack Software
 
-finrarmag este o aplicație ERP și CRM open-source gratuită, bazată pe "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag este o aplicație ERP & CRM gratuită open source bazată pe "mern-stack". Utilizează următoarele tehnologii: Node.js, React.js, Redux, Express.js, MongoDB și Ant Design (AntD).
 
-## Managementul utilizatorilor
+## Gestionarea utilizatorilor
 
-- Permite administratorilor să creeze, editeze și șteargă conturi de utilizator.
-- Implementează controlul accesului bazat pe roluri pentru gestionarea permisiunilor utilizatorilor.
-- Furnizează mecanisme de autentificare și autorizare pentru a asigura un acces securizat.
+- Administratorii pot crea, edita și șterge conturi de utilizator.
+- Control acces bazat pe roluri pentru gestionarea permisiunilor.
+- Mecanisme de autentificare și autorizare asigură accesul securizat.
 
-## Managementul relațiilor cu clienții (CRM)
+## Gestionarea relațiilor cu clienții (CRM)
 
-- Permite utilizatorilor să creeze și să gestioneze înregistrări de contact pentru clienți potențiali și existenți.
-- Implementează funcționalități de generare și calificare a lead-urilor pentru a urmări oportunitățile potențiale de vânzări.
-- Furnizează instrumente pentru gestionarea istoricului de comunicare cu clienții, inclusiv e-mailuri, apeluri și întâlniri.
-- Permite utilizatorilor să programeze întâlniri și să trimită notificări sau mementouri clienților.
+- Utilizatorii pot crea și gestiona date de contact pentru lead-uri și clienți.
+- Funcții de generare și calificare lead-uri pentru urmărirea oportunităților.
+- Instrumente pentru gestionarea istoricului comunicării cu clienții.
+- Utilizatorii pot programa întâlniri și trimite notificări clienților.
 
-## Managementul vânzărilor
+## Gestionarea vânzărilor
 
-- Permite utilizatorilor să creeze și să gestioneze comenzi de vânzare, asociindu-le cu clienți specifici.
-- Implementează urmărirea inventarului pentru a verifica disponibilitatea produselor și a actualiza nivelurile de stoc după fiecare vânzare.
-- Generează facturi și gestionează integrarea plăților cu gateway-uri populare de plată.
-- Furnizează tablouri de bord și rapoarte pentru monitorizarea performanțelor de vânzări și analiza tendințelor.
+- Utilizatorii pot crea și gestiona comenzi de vânzare.
+- Control stoc pentru verificarea disponibilității produselor.
+- Facturile sunt generate și integrarea plăților este gestionată.
+- Dashboard-uri pentru monitorizarea performanței vânzărilor.
 
-## Managementul achizițiilor
+## Gestionarea achizițiilor
 
-- Permite utilizatorilor să creeze și să gestioneze comenzi de achiziții, specificând cantitatea și produsele dorite.
-- Urmărește informațiile furnizorului și gestionează relațiile cu furnizorii.
-- Primește bunuri și actualizează nivelurile de inventar în consecință.
-- Gestionează facturile de achiziții și plățile către furnizori.
+- Utilizatorii pot crea și gestiona comenzi de achiziție.
+- Informațiile furnizorilor sunt urmărite și relațiile sunt gestionate.
+- Se efectuează recepția mărfurilor și actualizarea stocului.
+- Facturile de achiziție și plățile către furnizori sunt gestionate.
 
-## Managementul inventarului
+## Gestionarea stocurilor
 
-- Furnizează instrumente pentru gestionarea și urmărirea nivelurilor de inventar, inclusiv transferuri de stoc și ajustări.
-- Configurează notificări automate pentru nivelurile scăzute de stoc și generează comenzi de achiziții atunci când este necesară reînnoirea stocului.
-- Oferă capacități de scanare a codurilor de bare pentru gestionarea eficientă a inventarului.
-- Permite utilizatorilor să clasifice produsele, să definească atribute și să seteze informații de preț.
+- Instrumente pentru gestionarea și urmărirea nivelurilor de stoc.
+- Notificări automate pentru niveluri scăzute de stoc.
+- Sunt oferite funcții de scanare coduri de bare.
+- Utilizatorii pot categorisi produse și stabili prețuri.
 
-## Managementul financiar
+## Gestionare financiară
 
-- Implementează un sistem de registrul general pentru urmărirea tranzacțiilor financiare, inclusiv cheltuieli și venituri.
-- Gestionează creanțele și datoriile, inclusiv facturare și urmărirea plăților.
-- Generează rapoarte financiare, inclusiv bilanțuri și state de venituri.
-- Integrează cu software-uri populare de contabilitate pentru gestionarea financiară fără probleme.
+- Sistem de contabilitate generală pentru urmărirea tranzacțiilor.
+- Creanțele și datoriile sunt gestionate.
+- Rapoarte financiare sunt generate.
+- Integrarea cu software-ul de contabilitate este posibilă.
 
-## Managementul proiectelor
+## Gestionarea proiectelor
 
-- Furnizează capacități de gestionare a proiectelor, permițând utilizatorilor să creeze și să urmărească proiecte.
-- Alocă sarcini membrilor echipei, stabilește termene limită și monitorizează progresul.
-- Alocați resurse și urmăriți cheltuielile proiectului.
-- Oferă funcționalități de colaborare, cum ar fi partajarea de documente și comunicarea în timp real.
+- Funcții de management de proiect sunt disponibile.
+- Sarcinile pot fi atribuite membrilor echipei.
+- Resursele pot fi alocate și cheltuielile sunt urmărite.
+- Sunt oferite funcții de colaborare.
 
 ## Raportare și analiză
 
-- Generează rapoarte cuprinzătoare și analize asupra diferitelor aspecte ale afacerii.
-- Furnizează tablouri de bord personalizabile pentru monitorizarea indicatorilor cheie de performanță (KPI).
-- Permite utilizatorilor să definească rapoarte personalizate în funcție de cerințe specifice.
-- Implementează tehnici de vizualizare a datelor pentru a prezenta informațiile într-un mod vizual atractiv.
+- Rapoarte cuprinzătoare sunt generate despre diverse aspecte ale afacerii.
+- Dashboard-uri personalizabile sunt disponibile.
+- Utilizatorii pot defini rapoarte personalizate.
+- Tehnici de vizualizare a datelor sunt implementate.
 
 ## Integrare și personalizare
 
-- Permite integrarea cu aplicații terțe populare sau API-uri, cum ar fi instrumentele de marketing prin e-mail sau platformele CRM.
-- Permite personalizarea funcționalității și aspectului aplicației în funcție de nevoile specifice ale afacerii.
-- Furnizează o API sau webhook-uri pentru a facilita schimbul de date între aplicația ERP și CRM și alte sisteme.
+- Integrarea cu aplicații terțe este posibilă.
+- Funcționalitatea poate fi personalizată după necesități.
+- Un API este furnizat pentru schimbul de date.
 
-## Interfață prietenoasă pentru utilizator
+## Interfață utilizator
 
-- Proiectați o interfață intuitivă, receptivă și prietenoasă pentru utilizator folosind React.js și Ant Design.
-- Implementați meniuri de navigare ușor de utilizat, funcționalități de căutare și filtre.
-- Asigurați o interfață utilizator coerentă și vizual atractivă pe diferite dispozitive și dimensiuni de ecran.
+- Interfață intuitivă și responsivă cu React.js și Ant Design.
+- Meniuri de navigare și filtre ușor de utilizat.
+- Interfață consistentă pe diferite dispozitive.

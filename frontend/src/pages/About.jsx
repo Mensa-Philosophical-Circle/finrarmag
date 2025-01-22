@@ -16,8 +16,8 @@ const About = () => {
           </p>
           <p>
             GitHub :{' '}
-            <a href="https://github.com/finrarmag/finrarmag">
-              https://github.com/finrarmag/finrarmag
+            <a href="https://github.com/Mensa-Philosophical-Circle/finrarmag">
+              https://github.com/Mensa-Philosophical-Circle/finrarmag
             </a>
           </p>
           <Button

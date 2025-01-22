@@ -1,76 +1,74 @@
-# finrarmag Öppen källkod ERP & CRM-programvara
+# finrarmag Öppen Källkod ERP & CRM Programvara
 
-GitHub: [https://github.com/finrarmag/finrarmag](https://github.com/finrarmag/finrarmag)
-Demo: [https://www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
-Webbplats: [https://www.finrarmagapp.com](https://www.finrarmagapp.com)
+GitHub: [https://github.com/Mensa-Philosophical-Circle/finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)
 
-## Programvarustack
+## Programvaruplattform
 
-finrarmag Gratis öppen källkod erp & crm-app, baserad på "mern-stack": Node.js React.js Redux Express.js MongoDB AntDesign (AntD)
+finrarmag är en gratis öppen källkod ERP & CRM-applikation baserad på "mern-stack". Den använder följande teknologier: Node.js, React.js, Redux, Express.js, MongoDB och Ant Design (AntD).
 
 ## Användarhantering
 
-- Tillåt administratörer att skapa, redigera och ta bort användarkonton.
-- Implementera rollbaserad åtkomstkontroll för att hantera användarbehörigheter.
-- Tillhandahåll autentiserings- och auktoriseringsmekanismer för att säkerställa säker åtkomst.
+- Administratörer kan skapa, redigera och ta bort användarkonton.
+- Rollbaserad åtkomstkontroll för behörighetshantering.
+- Säker åtkomst genom autentisering och auktoriseringsmekanismer.
 
-## Kundrelationhantering (CRM)
+## Kundrelationshantering (CRM)
 
-- Möjliggör för användare att skapa och hantera kontaktregister för leads, prospekteringar och kunder.
-- Implementera funktionalitet för leadgenerering och kvalificering för att följa potentiella försäljningsmöjligheter.
-- Tillhandahåll verktyg för att hantera kundkommunikationshistorik, inklusive e-post, samtal och möten.
-- Tillåt användare att schemalägga möten och skicka meddelanden eller påminnelser till kunder.
+- Användare kan skapa och hantera kontaktinformation för leads och kunder.
+- Lead-generering och kvalificering för att spåra försäljningsmöjligheter.
+- Verktyg för att hantera kundkommunikationshistorik.
+- Användare kan schemalägga möten och skicka meddelanden till kunder.
 
 ## Försäljningshantering
 
-- Tillåt användare att skapa och hantera försäljningsorder och koppla dem till specifika kunder.
-- Implementera lagerövervakning för att kontrollera produkttillgänglighet och uppdatera lagerstatus efter varje försäljning.
-- Generera fakturor och hantera betalningsintegration med populära betalningsportaler.
-- Tillhandahåll instrumentpaneler och rapporter för att övervaka försäljningsprestanda och analysera trender.
+- Användare kan skapa och hantera försäljningsorder.
+- Lagerhantering för att kontrollera produkttillgänglighet.
+- Fakturor genereras och betalningsintegrationer hanteras.
+- Dashboard för att övervaka försäljningsprestanda.
 
 ## Inköpshantering
 
-- Tillåt användare att skapa och hantera inköpsorder och ange antal och önskade produkter.
-- Spåra leverantörsinformation och hantera leverantörsrelationer.
-- Ta emot varor och uppdatera lagerstatus därefter.
-- Hantera inköpsfakturor och betalningar till leverantörer.
+- Användare kan skapa och hantera inköpsorder.
+- Leverantörsinformation spåras och relationer hanteras.
+- Varuinleveranser och lageruppdateringar utförs.
+- Inköpsfakturor och leverantörsbetalningar hanteras.
 
 ## Lagerhantering
 
-- Tillhandahåll verktyg för att hantera och spåra lagerstatus, inklusive lageröverföringar och justeringar.
-- Ställ in automatiska aviseringar för låga lagerstatus och generera inköpsorder när påfyllning krävs.
-- Erbjud streckkodsläsarfunktioner för effektiv lagerhantering.
-- Möjliggör för användare att kategorisera produkter, definiera attribut och ange prisinformation.
+- Verktyg för att hantera och spåra lagernivåer.
+- Automatiska meddelanden för låga lagernivåer.
+- Streckkodsskanningsfunktionalitet tillhandahålls.
+- Användare kan kategorisera produkter och sätta priser.
 
 ## Ekonomihantering
 
-- Implementera ett huvudbokssystem för att spåra ekonomiska transaktioner, inklusive utgifter och intäkter.
-- Hantera kundfordringar och leverantörsskulder, inklusive fakturering och betalningsuppföljning.
-- Generera ekonomiska rapporter, inklusive balansräkningar och resultaträkningar.
-- Integrera med populär redovisningsprogramvara för sömlös ekonomihantering.
+- Huvudbokssystem för att spåra transaktioner.
+- Kundfordringar och leverantörsskulder hanteras.
+- Finansiella rapporter genereras.
+- Integration med bokföringsprogram är möjlig.
 
-## Projektledning
+## Projekthantering
 
-- Tillhandahåll projektledningsfunktioner som gör att användare kan skapa och följa projekt.
-- Tilldela uppgifter till teammedlemmar, ställ in deadlines och övervaka framsteg.
-- Tilldela resurser och följa projektutgifter.
-- Erbjud samarbetsfunktioner som dokumentdelning och kommunikation i realtid.
+- Projekthanteringsfunktioner tillhandahålls.
+- Uppgifter kan tilldelas teammedlemmar.
+- Resurser kan allokeras och kostnader spåras.
+- Samarbetsfunktioner tillhandahålls.
 
-## Rapportering och analys
+## Rapportering och Analys
 
-- Generera omfattande rapporter och analyser om olika aspekter av verksamheten.
-- Tillhandahåll anpassningsbara instrumentpaneler för att övervaka nyckeltal (KPI:er).
-- Tillåt användare att definiera anpassade rapporter utifrån specifika krav.
-- Implementera tekniker för datavisualisering för att presentera information på ett visuellt tilltalande sätt.
+- Omfattande rapporter genereras om olika aspekter av verksamheten.
+- Anpassningsbara dashboards tillhandahålls.
+- Användare kan definiera anpassade rapporter.
+- Datavisualiseringstekniker implementeras.
 
-## Integration och anpassning
+## Integration och Anpassning
 
-- Möjliggör integration med populära tredjepartsapplikationer eller API:er, som e-postmarknadsföringsverktyg eller CRM-plattformar.
-- Tillåt anpassning av appens funktionalitet och utseende baserat på specifika affärsbehov.
-- Tillhandahåll en API eller webhooks för att underlätta datautbyte mellan ERP- och CRM-appen och andra system.
+- Integration med tredjepartsapplikationer är möjlig.
+- Funktioner kan anpassas efter behov.
+- API tillhandahålls för datautbyte.
 
-## Användarvänligt gränssnitt
+## Användargränssnitt
 
-- Designa ett intuitivt, responsivt och användarvänligt gränssnitt med hjälp av React.js och Ant Design.
-- Implementera lättanvända navigeringsmenyer, sökfunktioner och filter.
-- Se till att gränssnittet är konsekvent och visuellt tilltalande på olika enheter och skärmstorlekar.
+- Intuitivt och responsivt gränssnitt med React.js och Ant Design.
+- Lättanvända navigeringsmenyer och filter.
+- Konsekvent gränssnitt över olika enheter.

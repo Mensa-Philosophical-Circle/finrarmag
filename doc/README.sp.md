@@ -1,12 +1,9 @@
 #### Spanish Translation
 
 <div align="center">
-    <a href="https://www.finrarmagapp.com/">
-  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
-    </a>
-    <h1>ERP/CRM de Código Abierto y "Fair-Code" | Node.js React.js</h1>
+  <h1>ERP / CRM de Código Abierto Contabilidad Facturación Presupuestos</h1>
     <p align="center">
-        <p>finrarmag ERP CRM | Fácil de usar | 44 Idiomas</p>
+        <p>Finrarmag | Fácil de usar</p>
     </p>
 
   [www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
@@ -25,103 +22,49 @@ finrarmag es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventari
 usuario: admin@demo.com  contraseña: admin123
 ```
 
-```
-🚀 Dale una Estrella ⭐️ y Haz un Fork a este proyecto ...  ¡Feliz codificación!🤩`
-```
-
-## Licencia
-
-finrarmag es un Código Abierto Gratuito bajo [fair-code](http://faircode.io) distribuido bajo la
-[**finrarmag License 1.0**](https://github.com/finrarmag/finrarmag/blob/master/LICENSE)
-
-## Preguntas Frecuentes sobre la Licencia
+ Dale una Estrella ⭐️ y Haz un Fork a este proyecto... ¡Feliz codificación! 🤩
 
 ## Características
 
 Gestión de Facturas 💰
 
-Gestión de Inventario 🧳
+Gestión de Pagos
 
-Gestión Contable 📈
+Gestión de Presupuestos
 
-Gestión de Recursos Humanos 🧑‍🤝‍🧑
+Gestión de Clientes
 
-Ant Design Framework(AntD) 🐜
+Framework Ant Design (AntD) 🐜
 
-Basado en Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
+Basado en Mern Stack (Node.js / Express.js / MongoDb / React.js) 👨‍💻
 
 ### ¿Puedo usar finrarmag con fines comerciales?
 
 - Sí, puedes usar finrarmag de forma gratuita para uso personal o comercial.
 
-### ¿Puedo personalizar finrarmag como SaaS y ofrecerlo a otros usuarios?
+## Aplicación ERP / CRM de Código Abierto Gratuita
 
-No, no puedes personalizar finrarmag como SaaS y ofrecerlo a otros usuarios. No se permite proporcionar el software finrarmag a terceros como un servicio hospedado o gestionado, o como software como servicio (SaaS), donde el servicio proporciona a los usuarios acceso a un conjunto sustancial de funciones o características de este software.
-
-### Para servicios de desarrollo personalizado o soporte premium
-
-[Ponte en contacto](mailto:hello@finrarmagapp.com)
-
-## Cómo Desplegar finrarmag ERP CRM
-
-🔥 Me gustaría invitarte a un seminario web semanal gratuito de finrarmag (curso Node.js React.js), donde aprenderás cómo desplegar finrarmag en la nube y crear una nueva API y una nueva aplicación CRUD con finrarmag en solo una hora.
-Completa este formulario si estás interesado: [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
-
-El seminario web será este miércoles a la 1 pm GMT.
-
-## Nuestros Patrocinadores
-
-  <a href="https://m.do.co/c/4ead8370b905?ref=finrarmagapp.com">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
-  </a>
-
-#
-
-<img width="1403" alt="Open Source ERP CRM" src="https://github.com/finrarmag/finrarmag/assets/136928179/a6712286-7ca6-4822-8902-fb7523533ee8">
-
-## Aplicación ERP/CRM de Código Abierto y Gratuito
-
-finrarmag es un ERP/CRM de Código Abierto y "Fair-Code" (Facturación/Inventario/Contabilidad/RRHH) basado en Advanced Mern Stack (Node.js/Express.js/MongoDb/React.js) con Ant Design (AntD) y Redux
-
-**Demo en Vivo** : [https://www.finrarmagapp.com/demo-erp-crm/](https://www.finrarmagapp.com/demo-erp-crm/)
+finrarmag es un ERP / CRM de Código Abierto "Fair-Code" (Facturación / Inventario / Contabilidad / RRHH) basado en Mern Stack (Node.js / Express.js / MongoDb / React.js) con Ant Design (AntD) y Redux
 
 ## Comenzando
 
-1.[Clona el repositorio](INSTALLATION-INSTRUCTIONS.md#step-1-clone-the-repository)
+1.[Clonar el repositorio](INSTALLATION-INSTRUCTIONS.md#step-1-clone-the-repository)
 
-2.[Crea tu cuenta y clúster de base de datos en MongoDB](INSTALLATION-INSTRUCTIONS.md#Step-2-Create-Your-MongoDB-Account-and-Database-Cluster)
+2.[Crear tu cuenta y clúster de base de datos en MongoDB](INSTALLATION-INSTRUCTIONS.md#Step-2-Create-Your-MongoDB-Account-and-Database-Cluster)
 
-3.[Edita el archivo de entorno](INSTALLATION-INSTRUCTIONS.md#Step-3-Edit-the-Environment-File)
+3.[Editar el archivo de entorno](INSTALLATION-INSTRUCTIONS.md#Step-3-Edit-the-Environment-File)
 
-4.[Actualiza la URI de MongoDB](INSTALLATION-INSTRUCTIONS.md#Step-4-Update-MongoDB-URI)
+4.[Actualizar la URI de MongoDB](INSTALLATION-INSTRUCTIONS.md#Step-4-Update-MongoDB-URI)
 
-5.[Instala las Dependencias del Backend](INSTALLATION-INSTRUCTIONS.md#Step-5-Install-Backend-Dependencies)
+5.[Instalar las Dependencias del Backend](INSTALLATION-INSTRUCTIONS.md#Step-5-Install-Backend-Dependencies)
 
-6.[Ejecuta el Script de Configuración](INSTALLATION-INSTRUCTIONS.md#Step-6-Run-Setup-Script)
+6.[Ejecutar el Script de Configuración](INSTALLATION-INSTRUCTIONS.md#Step-6-Run-Setup-Script)
 
-7.[Ejecuta el Servidor Backend](INSTALLATION-INSTRUCTIONS.md#Step-7-Run-the-Backend-Server)
+7.[Ejecutar el Servidor Backend](INSTALLATION-INSTRUCTIONS.md#Step-7-Run-the-Backend-Server)
 
-8.[Instala las Dependencias del Frontend](INSTALLATION-INSTRUCTIONS.md#Step-8-Install-Frontend-Dependencies)
+8.[Instalar las Dependencias del Frontend](INSTALLATION-INSTRUCTIONS.md#Step-8-Install-Frontend-Dependencies)
 
-9.[Ejecuta el Servidor Frontend](INSTALLATION-INSTRUCTIONS.md#Step-9-Run-the-Frontend-Server)
-
-## Docker Compose para desarrollo local
-
-- configura variables de entorno adicionales, si es necesario, en el siguiente archivo
-
-```bash
-docker-compose.yml
-```
-
-- Después de las configuraciones necesarias, ejecuta el siguiente comando:
-
-```bash
-docker-compose up -d
-```
-
-Esto construirá las imágenes y pondrá en marcha los contenedores para el frontend, backend y MongoDB.
-
-**_NOTA:_**  Esta configuración de docker-compose está asociada solo para desarrollo local.
+9.[Ejecutar el Servidor Frontend](INSTALLATION-INSTRUCTIONS.md#Step-9-Run-the-Frontend-Server)
 
 ## Contribuir
 
@@ -139,10 +82,14 @@ Esto construirá las imágenes y pondrá en marcha los contenedores para el fron
 
 7.[Preguntas](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#questions)
 
-## Servicio de Desarrollo Personalizado
+## Licencia
 
-Los servicios de desarrollo personalizado están disponibles: [Contactez-nous](mailto:hello@finrarmagapp.com)
+finrarmag es Software de Código Abierto Gratuito publicado bajo la Licencia GNU Affero General Public License v3.0.
 
-## Muestra tu apoyo
+## Nuestros Patrocinadores
 
-¡No olvides darle una ⭐️ a este proyecto ... ¡Feliz codificación!
+  <a href="https://m.do.co/c/4ead8370b905?ref=finrarmagapp.com">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
+  </a>
+
+#
