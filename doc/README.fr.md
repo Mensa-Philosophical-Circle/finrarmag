@@ -1,26 +1,26 @@
 #### French Translation
 
-
 <div align="center">
-    <a href="https://www.idurarapp.com/">
+    <a href="https://www.finrarmagapp.com/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a>
     <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple à utiliser | 44 Langues </p>
+        <p>finrarmag ERP CRM | Simple à utiliser | 44 Langues </p>
     </p>
-    
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+
+  [www.finrarmagapp.com/open-source-erp-crm/](https://www.finrarmagapp.com/open-source-erp-crm/)
 
 ## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
 
-IDURAR est un Open "Fair-Code" Source ERP / CRM (Facturation / Inventaire / Comptabilité / RH) Basé sue le Mern Stack avancé (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
+finrarmag est un Open "Fair-Code" Source ERP / CRM (Facturation / Inventaire / Comptabilité / RH) Basé sue le Mern Stack avancé (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
 
 </div>
 
-**Démo de l'application en direct** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+**Démo de l'application en direct** : [https://www.finrarmagapp.com/demo-erp-crm/](https://www.finrarmagapp.com/demo-erp-crm/)
 
 **Identifiants** :
+
 ```
 nom d'utilisateur : admin@demo.com  mot de passe : admin123
 ```
@@ -31,12 +31,12 @@ nom d'utilisateur : admin@demo.com  mot de passe : admin123
 
 ## License
 
-IDURAR est un Open Code Source gratuit [fair-code](http://faircode.io) distribué sous la
-[**IDURAR License 1.0**](https://github.com/idurar/idurar-erp-crm/blob/master/LICENSE)
+finrarmag est un Open Code Source gratuit [fair-code](http://faircode.io) distribué sous la
+[**finrarmag License 1.0**](https://github.com/finrarmag/finrarmag/blob/master/LICENSE)
 
-## License FAQ :
+## License FAQ
 
-## Caractéristiques : 
+## Caractéristiques
 
 Gestion des factures 💰
 
@@ -50,46 +50,44 @@ Ant Design Framework(AntD) 🐜
 
 Basé sur le Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-### Puis-je utiliser IDURAR à des fins commerciales :
+### Puis-je utiliser finrarmag à des fins commerciales
 
-- Oui, vous pouvez utiliser IDURAR gratuitement à des fins personnelles ou commerciales.
+- Oui, vous pouvez utiliser finrarmag gratuitement à des fins personnelles ou commerciales.
 
-### Puis-je personnaliser IDURAR en tant que SaaS et le fournir à d'autres utilisateurs ?
+### Puis-je personnaliser finrarmag en tant que SaaS et le fournir à d'autres utilisateurs ?
 
-Non, vous ne pouvez pas personnaliser IDURAR en tant que SaaS et le fournir à d'autres utilisateurs. Vous n'êtes pas autorisé à fournir le logiciel IDURAR à des tiers en tant que service hébergé ou géré ou en tant que logiciel en tant que service (SaaS), où le service fournit aux utilisateurs un accès à un ensemble substantiel de fonctionnalités de ce logiciel.
+Non, vous ne pouvez pas personnaliser finrarmag en tant que SaaS et le fournir à d'autres utilisateurs. Vous n'êtes pas autorisé à fournir le logiciel finrarmag à des tiers en tant que service hébergé ou géré ou en tant que logiciel en tant que service (SaaS), où le service fournit aux utilisateurs un accès à un ensemble substantiel de fonctionnalités de ce logiciel.
 
-### Pour des services de développement personnalisés ou un support premium :
+### Pour des services de développement personnalisés ou un support premium
 
-[Contactez-nous](mailto:hello@idurarapp.com)
+[Contactez-nous](mailto:hello@finrarmagapp.com)
 
-## Comment déployer IDURAR ERP CRM :
+## Comment déployer finrarmag ERP CRM
 
-🔥 Je vous invite à un webinaire IDURAR gratuit chaque semaine (cours Node.js React.js), où vous apprendrez à déployer IDURAR sur le cloud et à créer une nouvelle API et une nouvelle application CRUD avec IDURAR en une heure seulement ?
+🔥 Je vous invite à un webinaire finrarmag gratuit chaque semaine (cours Node.js React.js), où vous apprendrez à déployer finrarmag sur le cloud et à créer une nouvelle API et une nouvelle application CRUD avec finrarmag en une heure seulement ?
 Veuillez remplir ce formulaire si vous êtes intéressé : [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
 
 Le webinaire aura lieu ce mercredi à 13h GMT.
 
 ## Nos Sponsors
 
-  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
+  <a href="https://m.do.co/c/4ead8370b905?ref=finrarmagapp.com">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
   </a>
 
 #
 
-<img width="1403" alt="Open Source ERP CRM" src="https://github.com/idurar/idurar-erp-crm/assets/136928179/a6712286-7ca6-4822-8902-fb7523533ee8">
+<img width="1403" alt="Open Source ERP CRM" src="https://github.com/finrarmag/finrarmag/assets/136928179/a6712286-7ca6-4822-8902-fb7523533ee8">
 
 ## Application ERP / CRM Open Source gratuite
 
-IDURAR est un ERP / CRM Open Source basé sur le "Fair-Code" (Facturation / Inventaire / Comptabilité / RH) basé sur la stack Mern (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
+finrarmag est un ERP / CRM Open Source basé sur le "Fair-Code" (Facturation / Inventaire / Comptabilité / RH) basé sur la stack Mern (Node.js / Express.js / MongoDb / React.js ) avec Ant Design (AntD) et Redux
 
-**Démo de l'application en direct** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+**Démo de l'application en direct** : [https://www.finrarmagapp.com/demo-erp-crm/](https://www.finrarmagapp.com/demo-erp-crm/)
 
 ## Premiers Pas
 
-
 1.[Cloner le dépôt](INSTALLATION-INSTRUCTIONS.md#step-1-clone-the-repository)
-
 
 2.[Créer votre compte MongoDB et votre cluster de base de données](INSTALLATION-INSTRUCTIONS.md#Step-2-Create-Your-MongoDB-Account-and-Database-Cluster)
 
@@ -111,7 +109,6 @@ IDURAR est un ERP / CRM Open Source basé sur le "Fair-Code" (Facturation / Inve
 
 - configurer les variables d'environnement supplémentaires, si nécessaire, dans le fichier ci-dessous
 
-
 ```bash
 docker-compose.yml
 ```
@@ -128,23 +125,23 @@ Cela construira les images et lancera les conteneurs pour le frontend, le backen
 
 ## Contribuer
 
-1.[Comment Contribuer](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#how-to-contribute)
+1.[Comment Contribuer](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#how-to-contribute)
 
-2.[Signaler des problèmes](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#reporting-issues)
+2.[Signaler des problèmes](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#reporting-issues)
 
-3.[Travailler sur des problèmes](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#working-on-issues)
+3.[Travailler sur des problèmes](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#working-on-issues)
 
-4.[Soumettre des pull requests](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#submitting-pull-requests)
+4.[Soumettre des pull requests](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#submitting-pull-requests)
 
-5.[Directives de commit](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#commit-guidelines)
+5.[Directives de commit](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#commit-guidelines)
 
-6.[Directives de codage](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#coding-guidelines)
+6.[Directives de codage](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#coding-guidelines)
 
-7.[Questions](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#questions)
+7.[Questions](https://github.com/finrarmag/finrarmag/blob/master/CONTRIBUTING.md#questions)
 
 ## Service de développement personnalisé
 
-Des services de développement personnalisés sont disponibles : [Contactez-nous](mailto:hello@idurarapp.com)
+Des services de développement personnalisés sont disponibles : [Contactez-nous](mailto:hello@finrarmagapp.com)
 
 ## Montrez votre soutien
 

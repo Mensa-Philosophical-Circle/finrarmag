@@ -1,5 +1,5 @@
 {
-  "name": "idurar-erp-crm",
+  "name": "finrarmag",
   "version": "4.1.0",
   "engines": {
     "npm": "10.2.4",
@@ -53,10 +53,10 @@
   "license": "Fair-code License",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idurar/idurar-erp-crm/.git"
+    "url": "git+https://github.com/idurar/finrarmag/.git"
   },
   "bugs": {
-    "url": "https://github.com/idurar/idurar-erp-crm//issues"
+    "url": "https://github.com/idurar/finrarmag//issues"
   },
-  "homepage": "https://github.com/idurar/idurar-erp-crm/#readme"
+  "homepage": "https://github.com/idurar/finrarmag/#readme"
 }

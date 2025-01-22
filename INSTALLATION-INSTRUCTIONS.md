@@ -3,11 +3,11 @@
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/idurar/idurar-erp-crm.git
+git clone https://github.com/finrarmag/finrarmag.git
 ```
 
 ```bash
-cd idurar-erp-crm
+cd finrarmag
 ```
 
 #### Step 2: Create Your MongoDB Account and Database Cluster
@@ -90,10 +90,9 @@ npm run dev
 
 This command will start the frontend server, and you'll be able to access the website on localhost:3000 in your web browser.
 
-:exclamation: :warning:` If you encounter an OpenSSL error while running the frontend server, follow these additional steps:`
+:exclamation: :warning:`If you encounter an OpenSSL error while running the frontend server, follow these additional steps:`
 
 Reason behind error: This is caused by the node.js V17 compatible issues with OpenSSL, see [this](https://github.com/nodejs/node/issues/40547) and [this](https://github.com/webpack/webpack/issues/14532) issue on GitHub.
-
 
 Try one of these and error will be solved
 

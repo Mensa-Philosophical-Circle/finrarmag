@@ -1,23 +1,21 @@
 <div align="center">
-<!--     <a href="https://www.idurarapp.com/">
+<!--     <a href="https://www.finrarmagapp.com/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a> -->
     <h1>Open Source ERP / CRM Accounting Invoice Quote</h1>
     <p align="center">
-        <p>IDURAR | Simple To Use</p>
+        <p>finrarmag | Simple To Use</p>
     </p>
-    
 
 ```
  Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
 ```
 
-IDURAR is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+finrarmag is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 </div>
 
-
-## Features :
+## Features
 
 Invoice Management
 
@@ -31,14 +29,13 @@ Ant Design Framework(AntD) 🐜
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-### May i can use IDURAR for Commercial use :
+### May i can use finrarmag for Commercial use
 
-- Yes You can use IDURAR for free for personal or Commercial use.
- 
+- Yes You can use finrarmag for free for personal or Commercial use.
+
 ## Free Open Source ERP / CRM App
 
-IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-
+finrarmag is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 ## Getting started
 
@@ -62,21 +59,20 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 ## Contributing
 
-1.[How to contribute](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#how-to-contribute)
+1.[How to contribute](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#how-to-contribute)
 
-2.[Reporting issues](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#reporting-issues)
+2.[Reporting issues](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#reporting-issues)
 
-3.[Working on issues ](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#working-on-issues)
+3.[Working on issues](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#working-on-issues)
 
-4.[Submitting pull requests](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#submitting-pull-requests)
+4.[Submitting pull requests](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#submitting-pull-requests)
 
-5.[Commit Guidelines](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#commit-guidelines)
+5.[Commit Guidelines](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#commit-guidelines)
 
-6.[Coding Guidelines](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#coding-guidelines)
+6.[Coding Guidelines](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#coding-guidelines)
 
-7.[Questions](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#questions)
-
+7.[Questions](https://github.com/Mensa-Philosophical-Circle/finrarmag/blob/production/CONTRIBUTING.md#questions)
 
 ## License
 
-IDURAR is Free Open Source Released under the GNU Affero General Public License v3.0.
+finrarmag is Free Open Source Released under the GNU Affero General Public License v3.0.

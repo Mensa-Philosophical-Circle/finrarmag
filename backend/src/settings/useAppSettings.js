@@ -1,7 +1,7 @@
 const useAppSettings = () => {
   let settings = {};
-  settings['idurar_app_email'] = 'noreply@idurarapp.com';
-  settings['idurar_base_url'] = 'https://cloud.idurarapp.com';
+  settings['finrarmag_app_email'] = 'noreply@finrarmagapp.com';
+  settings['finrarmag_base_url'] = 'https://cloud.finrarmagapp.com';
   return settings;
 };
 
