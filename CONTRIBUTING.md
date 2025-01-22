@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome to the [finrarmag](<[finrarmag](https://github.com/finrarmag/finrarmag)>) repository! We're excited that you're interested in contributing. Please take a moment to review this document to ensure a smooth collaboration process.
+Welcome to the [finrarmag](<[finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag)>) repository! We're excited that you're interested in contributing. Please take a moment to review this document to ensure a smooth collaboration process.
 
 ## How to Contribute
 
@@ -8,9 +8,9 @@ Welcome to the [finrarmag](<[finrarmag](https://github.com/finrarmag/finrarmag)>
 
 If you find a bug or have a suggestion for an enhancement :
 
-- please make sure it was not asked before here [issues](https://github.com/finrarmag/finrarmag/issues).
-- make sure it is not work in progress here [pull requests](https://github.com/finrarmag/finrarmag/pulls).
-- you can then [create an issue](https://github.com/finrarmag/finrarmag/issues/new/choose) with the following information:
+- please make sure it was not asked before here [issues](https://github.com/Mensa-Philosophical-Circle/finrarmag/issues).
+- make sure it is not work in progress here [pull requests](https://github.com/Mensa-Philosophical-Circle/finrarmag/pulls).
+- you can then [create an issue](https://github.com/Mensa-Philosophical-Circle/finrarmag/issues/new/choose) with the following information:
   - a short but descriptive title.
   - a detailed description of the issue or suggestion (if it is a bug include the steps to reproduce it).
 
@@ -54,4 +54,4 @@ Please follow this commit format for your commit messages:
 
 If you have any questions, feel free to reach out by creating an issue.
 
-Thank you for contributing to [finrarmag](https://github.com/finrarmag/finrarmag) dont forget to give us a :star: !
+Thank you for contributing to [finrarmag](https://github.com/Mensa-Philosophical-Circle/finrarmag) dont forget to give us a :star: !
