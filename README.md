@@ -62,7 +62,7 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 ## Contributing
 
-1.[How to contribute](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#how-to-contribute)
+1.[How to contribute](https://github.com/Mensa-Philosophical-Circle/idurar/blob/production/CONTRIBUTING.md#how-to-contribute)
 
 2.[Reporting issues](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#reporting-issues)
 
